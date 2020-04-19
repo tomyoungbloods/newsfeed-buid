@@ -5,7 +5,7 @@
                 <router-link v-bind:to="{name: 'view-news', params: {news_id: news[0].news_id}}">
                         <v-img
                         v-bind:src= news[0].image
-                        class="white--text align-end border-radius "
+                        class="white--text align-end border-radius-bottom "
                         gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
                         height="60vh"
                         
