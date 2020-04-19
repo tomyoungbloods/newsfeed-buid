@@ -1,0 +1,7 @@
+body, .container{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.border-radius {
+    border-radius: 8px;
+}
