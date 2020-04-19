@@ -1,6 +1,41 @@
 <template>
     <div id="new-dashboard">
-            <ul class="collection with-header">
+        <v-row
+        >
+            <v-col>     
+                        <v-img
+                        v-bind:src= image
+                        class="white--text align-end border-radius "
+                        gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
+                        height="40vh"
+                        
+                        >
+                            <v-card-title class="font-weight-bold" v-text="title"></v-card-title>
+                        </v-img>
+            </v-col>
+        </v-row>
+        <v-row
+        class="ma-4"
+        >
+
+            <v-col
+            cols="12"
+            class="pb-4"
+            > 
+                {{author}}
+            </v-col>
+
+            <v-col
+            cols="12"
+            > 
+                {{text}}
+            </v-col>
+
+        </v-row>
+
+
+
+            <!-- <ul class="collection with-header">
                 <li class="collection-header">
                     <h4>{{title}}</h4>
                 </li>
@@ -21,7 +56,7 @@
                 <router-link v-bind:to="{ name: 'edit-news', params: {news: news_id}}" class="btn-floating btn-large red">
                     <i class="fa fa-pencil"></i>
                 </router-link>
-            </div>
+            </div> -->
         </div>
 </template>
 

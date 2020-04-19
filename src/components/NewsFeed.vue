@@ -1,15 +1,16 @@
 <template>
-    <div news_id="new-feed">
+    <div id="new-feed">
        <v-row>
             <v-col>     
                 <router-link v-bind:to="{name: 'view-news', params: {news_id: news[0].news_id}}">
                         <v-img
                         v-bind:src= news[0].image
-                        class="white--text align-end border-radius"
+                        class="white--text align-end border-radius "
                         gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-                        height="200px"
+                        height="60vh"
+                        
                         >
-                            <v-card-title v-text="news[0].title"></v-card-title>
+                            <v-card-title class="font-weight-bold" v-text="news[0].title"></v-card-title>
                         </v-img>
                 </router-link>
             </v-col>
@@ -28,7 +29,7 @@
                 <v-img
                 v-bind:src= newsitems.image
                 class="white--text align-end border-radius"
-                height="150px"
+                height="140px"
                 > 
                 </v-img>   
             </router-link>
@@ -39,7 +40,10 @@
             md="6"
             >
             <router-link v-bind:to="{name: 'view-news', params: {news_id: newsitems.news_id}}">
-                <v-card-title v-text="newsitems.title"></v-card-title>
+                <v-card-title 
+                v-text="newsitems.title"
+                class="body-2 font-weight-bold"
+                ></v-card-title>
             </router-link>
             </v-col>
             

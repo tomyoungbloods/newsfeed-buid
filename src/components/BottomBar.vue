@@ -1,15 +1,15 @@
 <template>
  <v-bottom-navigation
         dark
-        shift
         fixed
+        height="80px"
       >
         <v-btn
         
         v-for="item in menuItems"
         :key="item.title"
         class="flex-column"
-        height="100%"
+        height="70px"
         router
         :to="item.link"
         >

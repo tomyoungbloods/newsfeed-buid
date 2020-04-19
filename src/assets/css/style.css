@@ -1,7 +1,21 @@
-body, .container{
+.container{
     font-family: 'Montserrat', sans-serif !important;
+    padding-bottom: 90px !important;
+}
+
+
+.myFont, .v-application .body-2{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.v-application .myFont a{
+    color: #555;
 }
 
 .border-radius {
     border-radius: 8px;
+}
+
+.v-application a {
+    color: #222222;
 }
