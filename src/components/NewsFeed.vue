@@ -1,7 +1,7 @@
 <template>
     <div id="new-feed">
-       <v-row>
-            <v-col>     
+       <v-row class="no-padding">
+            <v-col class="no-padding">     
                 <router-link v-bind:to="{name: 'view-news', params: {news_id: news[0].news_id}}">
                         <v-img
                         v-bind:src= news[0].image
@@ -18,11 +18,12 @@
         <v-row
         v-for="newsitems in news"
         v-bind:key="newsitems.news_id"
+        class="news-feed-list ma-2"
         >
-            
             <v-col
             cols="5"
             md="4"
+            class="pa-0"
             >
             <router-link v-bind:to="{name: 'view-news', params: {news_id: newsitems.news_id}}">
                 
@@ -38,14 +39,19 @@
             <v-col
             cols="7"
             md="6"
+            class="pa-0"
             >
             <router-link v-bind:to="{name: 'view-news', params: {news_id: newsitems.news_id}}">
                 <v-card-title 
                 v-text="newsitems.title"
-                class="body-2 font-weight-bold"
-                ></v-card-title>
+                class="caption font-weight-medium"
+                >
+                </v-card-title>
+                <v-card-text><v-chip class="overline">{{newsitems.author}}</v-chip></v-card-text>
+                
             </router-link>
             </v-col>
+
             
         </v-row>
     </div>

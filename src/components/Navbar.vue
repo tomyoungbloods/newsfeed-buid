@@ -1,8 +1,15 @@
 <template>
 <div>
-          <v-toolbar dark>
+           <v-app-bar
+            absolute
+            color="none"
+            class="header-home"
+            >
+            <v-spacer></v-spacer>
             <v-toolbar-title>Nieuwslandschap</v-toolbar-title>
             <v-spacer></v-spacer>
+           </v-app-bar>
+            
 
             <!-- <v-btn icon>
               <v-icon>mdi-reply</v-icon>

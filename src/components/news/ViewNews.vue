@@ -1,8 +1,7 @@
 <template>
     <div id="new-dashboard">
-        <v-row
-        >
-            <v-col>     
+        <v-row class="no-padding">
+            <v-col class="no-padding">    
                         <v-img
                         v-bind:src= image
                         class="white--text align-end border-radius "
