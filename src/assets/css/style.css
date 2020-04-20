@@ -3,6 +3,7 @@
     padding-bottom: 90px;
     padding-top: 0;
     background: #F2F2F2;
+    word-break: break-word;
 }
 
 
@@ -50,3 +51,56 @@
 .row.news-feed-list a {
     color: #555;
 }
+
+img {
+    max-width: 100%;
+}
+
+.v-card__title {
+    word-break: break-word;
+}
+
+.theme--dark.v-bottom-navigation .v-btn:not(.v-btn--active) {
+    color: #50b5f2;
+}
+
+.theme--dark.v-bottom-navigation {
+    background-color: #eee;
+    color: #50b5f2;
+}
+
+.v-btn:not(.v-btn--text):not(.v-btn--outlined):hover:before {
+    opacity: 1;
+}
+
+.v-btn:not(.v-btn--text):not(.v-btn--outlined):hover:before {
+    opacity: 1;
+    margin-bottom: -10px;
+    margin-top: -8px;
+    border-radius: 8px 8px 0 0;
+}
+
+.v-item-group.v-bottom-navigation .v-btn.v-btn--active span {
+    color: #fff;
+}
+
+.v-item-group.v-bottom-navigation .v-btn.v-btn--active:not(:hover):before {
+    opacity: 1;
+    margin-bottom: -10px;
+    margin-top: -8px;
+    border-radius: 8px 8px 0 0;
+}
+
+.theme--dark.v-bottom-navigation .v-btn:not(.v-btn--active) {
+    color: #999 !important;
+}
+
+.v-item-group.v-bottom-navigation .v-btn .v-btn__content > *:not(.v-icon) {
+    line-height: 2.2;
+    font-size: 9px;
+}
+
+.v-item-group.v-bottom-navigation .v-btn{
+    min-width: 25%;
+}
+

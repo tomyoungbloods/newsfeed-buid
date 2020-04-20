@@ -3,13 +3,13 @@
         <v-row class="no-padding">
             <v-col class="no-padding">    
                         <v-img
-                        v-bind:src= image
+                        :src="image"
                         class="white--text align-end border-radius-bottom"
                         gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
                         height="40vh"
                         
                         >
-                            <v-card-title class="font-weight-bold" v-text="title"></v-card-title>
+                            <v-card-title class="font-weight-bold" v-text="this.title"></v-card-title>
                         </v-img>
             </v-col>
         </v-row>
@@ -21,13 +21,26 @@
             cols="12"
             class="pb-4"
             > 
-                {{author}}
+                {{this.author}}
             </v-col>
 
             <v-col
             cols="12"
             > 
-                {{text}}
+                {{this.text}}
+            </v-col>
+            <v-col
+            cols="12"
+            > 
+
+               <img :src="image1">
+                        
+            </v-col>
+            <v-col
+            cols="12"
+            > 
+            <img :src="image2">
+              
             </v-col>
 
         </v-row>
@@ -61,15 +74,18 @@
 
 <script>
 import db from '../firebaseInit'
+import firebase, { storage } from 'firebase'
 export default {
     data(){
         return{
-            news_id: null,
-            author: null,
-            image: null,
-            title: null,
-            text: null,
-            time: null
+            news_id:null,
+            author:null,
+            image:null,
+            image1:null,
+            image2:null,
+            title:null,
+            text:null,
+            time:null
             }
     },
     //Voordat de pagina geladen wordt haalt hij de data op. 
@@ -81,6 +97,8 @@ export default {
                     vm.news_id = doc.data().news_id
                     vm.author = doc.data().author
                     vm.image = doc.data().image
+                    vm.image1 = doc.data().image1
+                    vm.image2 = doc.data().image2
                     vm.title = doc.data().title
                     vm.text = doc.data().text
                     vm.time = doc.data().time
@@ -88,37 +106,39 @@ export default {
             })
         })
     },
-    watch: {
-        '$route': 'fetchData'
-    },
-    methods: {
-        fetchData (){
-            db.collection('news').where('news_id', '==', this.$route.params.news_id).get()
-            .then(querySnapshot => {
-                querySnapshot.forEach(doc => {
-                    this.news_id = doc.data().news_id
-                    this.author = doc.data().author
-                    this.image = doc.data().image
-                    this.title = doc.data().title
-                    this.text = doc.data().text
-                    this.time = doc.data().time
-                })
-            })
-        },
-        deleteNews () {
-        if(confirm('Are you sure?')) {
-            {
-            db.collection('news').where('id', '==', this.$route.params.id).get()
-            .then(querySnapshot => {
-                querySnapshot.forEach(doc => {
-                    doc.ref.delete();
-                    this.$router.push('/news');
-                })
-            })
-        }
-        }
-    }
-    }
+    // watch: {
+    //     '$route': 'fetchData'
+    // },
+    // methods: {
+    //     fetchData (){
+    //         db.collection('news').where('news_id', '==', this.$route.params.news_id).get()
+    //         .then(querySnapshot => {
+    //             querySnapshot.forEach(doc => {
+    //                 this.news_id = doc.data().news_id
+    //                 this.author = doc.data().author
+    //                 this.image = doc.data().image
+    //                 this.image1 = doc.data().image1
+    //                 this.image2 = doc.data().image2
+    //                 this.title = doc.data().title
+    //                 this.text = doc.data().text
+    //                 this.time = doc.data().time
+    //             })
+    //         })
+    //     },
+    //     deleteNews () {
+    //     if(confirm('Are you sure?')) {
+    //         {
+    //         db.collection('news').where('id', '==', this.$route.params.id).get()
+    //         .then(querySnapshot => {
+    //             querySnapshot.forEach(doc => {
+    //                 doc.ref.delete();
+    //                 this.$router.push('/news');
+    //             })
+    //         })
+    //     }
+    //     }
+    // }
+    // }
 }
 </script>
 
