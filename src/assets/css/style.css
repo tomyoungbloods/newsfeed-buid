@@ -2,9 +2,13 @@
     font-family: 'Montserrat', sans-serif !important;
     padding-bottom: 90px;
     padding-top: 0;
-    background: #F2F2F2;
+    background: transparent;
     word-break: break-word;
     margin-top: -20px;
+}
+
+.theme--light.v-application {
+    background: transparent !important;
 }
 
 body{
@@ -12,6 +16,10 @@ body{
 }
 .myFont, .v-application .body-2{
     font-family: 'Montserrat', sans-serif !important;
+}
+
+.theme--light.v-application {
+    background: transparent;
 }
 
 .v-application .myFont a{
