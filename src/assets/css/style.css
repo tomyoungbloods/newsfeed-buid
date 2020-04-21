@@ -5,19 +5,10 @@ body{
 .container{
     font-family: 'Montserrat', sans-serif !important;
     padding-bottom: 90px;
-    padding-top: 0;
     background: #eee;
     word-break: break-word;
-    margin-top: -20px;
 }
 
-
-
-
-
-body{
-    margin-top: -30px !important;
-}
 .myFont, .v-application .body-2{
     font-family: 'Montserrat', sans-serif !important;
 }
@@ -44,14 +35,6 @@ body{
 
 .no-padding{
     padding: 0;
-}
-.header-home .v-toolbar__content
-{
-    background-color: transparent;
-    box-shadow: none;
-    font-weight: 600;
-    color: #fff;
-    padding-top: 80px;
 }
 
 .theme--light.v-app-bar.v-toolbar.v-sheet {
@@ -117,6 +100,12 @@ img {
 
 .v-item-group.v-bottom-navigation .v-btn{
     min-width: 25%;
+}
+
+.v-toolbar__title {
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
 }
 
 

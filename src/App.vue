@@ -2,7 +2,7 @@
   <v-app class="myFont">
     <Navbar></Navbar>
     <v-container>
-          <router-view></router-view>
+          <router-view class="px-4"></router-view>
     </v-container>
     <BottomBar></BottomBar>     
   </v-app>

@@ -1,13 +1,13 @@
 <template>
 <div>
            <v-app-bar
-            absolute
-            color="transparent"
+            relative
+            color="#50b5f2"
             class="header-home"
             >
-            <v-spacer></v-spacer>
-            <v-toolbar-title>Nieuwslandschap</v-toolbar-title>
-            <v-spacer></v-spacer>
+       
+        <v-toolbar-title>Nieuwslandschap</v-toolbar-title>
+            
            </v-app-bar>
             
 

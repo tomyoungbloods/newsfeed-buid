@@ -1,13 +1,13 @@
 <template>
     <div id="new-feed">
-       <v-row class="no-padding">
-            <v-col class="no-padding">     
+       <v-row >
+            <v-col class="pa-0">     
                 <router-link v-bind:to="{name: 'view-news', params: {news_id: news[0].news_id}}">
                         <v-img
                         v-bind:src= news[0].image
                         class="white--text align-end border-radius-bottom "
-                        gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-                        height="60vh"
+                        gradient="to bottom, rgba(255,255,255,0) 66%, rgba(80,181,242,1)"
+                        height="50vh"
                         
                         >
                             <v-card-title class="font-weight-bold" v-text="news[0].title"></v-card-title>
@@ -18,7 +18,7 @@
         <v-row
         v-for="newsitems in news"
         v-bind:key="newsitems.news_id"
-        class="news-feed-list ma-2"
+        class="news-feed-list"
         >
             <v-col
             cols="5"
