@@ -1,7 +1,7 @@
 <template>
 <div>
            <v-app-bar
-            fixed
+            absolute
             color="transparent"
             class="header-home"
             >
