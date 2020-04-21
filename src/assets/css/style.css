@@ -6,7 +6,7 @@ body{
     font-family: 'Montserrat', sans-serif !important;
     padding-bottom: 90px;
     padding-top: 0;
-    background: #eee;
+    background: transparent;
     word-break: break-word;
     margin-top: -20px;
 }
@@ -55,7 +55,6 @@ body{
 }
 
 .theme--light.v-app-bar.v-toolbar.v-sheet {
-    background-color: transparent;
     box-shadow: none;
 }
 

@@ -1,8 +1,8 @@
 <template>
 <div>
            <v-app-bar
-            absolute
-            color="none"
+            fixed
+            color="transparent"
             class="header-home"
             >
             <v-spacer></v-spacer>
