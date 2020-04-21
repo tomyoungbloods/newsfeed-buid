@@ -1,0 +1,105 @@
+<template>
+    <div id="methode-drie">
+            <v-row class="full-height"> 
+
+                 <v-btn 
+                    v-for="item in methode"
+                    :key="item.bron"
+                    
+                    v-bind:style="{height: item.punten + 'px', width: item.punten + 'px',}" :class="item.bron" 
+                    class="bubble"
+                    
+                    
+                    >
+                        {{item.bron}}
+                    </v-btn>
+               
+            </v-row>
+    </div>
+</template>
+
+
+
+<script>
+export default {
+     data: () => ({
+    methode: [
+      { bron: 'HVNL', punten: 70, color: '#453292;'},
+      { bron: 'AD', punten: 130, color: '#453292;'},  
+      { bron: 'CNN', punten: 80, color: '#453292;'}, 
+      { bron: 'NRC', punten: 140, color: '#453292;'},
+      { bron: 'BBC', punten: 90, color: '#453292;'},
+      { bron: 'TELEGRAAF', punten: 100, color: '#453292;'},
+      { bron: 'VOLKSKRANT', punten: 160, color: '#453292;'},
+      { bron: 'NU', punten: 130, color: '#453292;'}, 
+      { bron: 'REUTERS', punten: 60, color: '#453292;'}, 
+      { bron: 'GUARDIAN', punten: 100, color: '#453292;'},
+      { bron: 'RTL', punten: 150, color: '#453292;'},
+      { bron: 'NOS', punten: 180, color: '#453292;'},
+      
+      
+    ]
+    })
+}
+</script>
+<style scoped>
+
+button.bubble.v-btn.v-btn--contained.theme--light.v-size--default {
+    color: #fff;
+}
+
+.HVNL {
+    background-color: #50b5f2 !important;
+}
+
+.AD {
+    background-color: #d10a10 !important;
+}
+
+.CNN {
+    background-color: #e30000 !important;
+}
+
+.NRC {
+    background-color: #d30910 !important;
+}
+
+.BBC {
+    background-color: #eee !important;
+    color: #555 !important;
+}
+
+.TELEGRAAF {
+    background-color: #27509A !important;
+}
+
+
+.VOLKSKRANT {
+    background-color: #008bc3 !important;
+}
+
+.NU {
+    background-color: #1f2544 !important;
+}
+
+.REUTERS {
+    background-color: #ff8000 !important;
+}
+
+.GUARDIAN {
+    background-color: #fff !important;
+    color: #555 !important;
+}
+
+
+.RTL {
+    background-color: #35a7d7 !important;
+}
+
+.NOS {
+    background-color: #e61e14 !important;
+}
+
+
+
+</style>

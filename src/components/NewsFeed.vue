@@ -5,12 +5,12 @@
                 <router-link v-bind:to="{name: 'view-news', params: {news_id: news[0].news_id}}">
                         <v-img
                         v-bind:src= news[0].image
-                        class="white--text align-end border-radius-bottom "
-                        gradient="to bottom, rgba(255,255,255,0) 66%, rgba(80,181,242,1)"
+                        class="white--text align-end border-radius-full"
+                        gradient="to bottom, rgba(255,255,255,0) 40%, rgba(80,181,242,1)"
                         height="50vh"
                         
                         >
-                            <v-card-title class="font-weight-bold" v-text="news[0].title"></v-card-title>
+                            <v-card-title class="headline font-weight-bold" v-text="news[0].title"></v-card-title>
                         </v-img>
                 </router-link>
             </v-col>
@@ -21,7 +21,7 @@
         class="news-feed-list"
         >
             <v-col
-            cols="5"
+            cols="4"
             md="4"
             class="pa-0"
             >
@@ -37,17 +37,17 @@
             </v-col> 
             
             <v-col
-            cols="7"
+            cols="8"
             md="6"
             class="pa-0"
             >
             <router-link v-bind:to="{name: 'view-news', params: {news_id: newsitems.news_id}}">
                 <v-card-title 
                 v-text="newsitems.title"
-                class="caption font-weight-medium"
+                class="subtitle-1 font-weight-bold"
                 >
                 </v-card-title>
-                <v-card-text><v-chip class="overline">{{newsitems.author}}</v-chip></v-card-text>
+                <v-card-text class="overline">{{newsitems.author}}</v-card-text>
                 
             </router-link>
             </v-col>

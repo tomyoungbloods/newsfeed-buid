@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import NewsFeed from '@/components/NewsFeed'
+import MethodeDrie from '@/components/MethodeDrie'
 import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
 import ViewNews from '@/components/news/ViewNews'
@@ -54,6 +55,14 @@ let router = new Router({
       component: EditNews,
       meta: {
         requiresAuth: true
+      }
+    },
+    {
+      path: '/methode-3',
+      name: 'methode-drie',
+      component: MethodeDrie,
+      meta: {
+        requiresGuest: true
       }
     },
     // {
