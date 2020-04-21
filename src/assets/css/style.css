@@ -7,6 +7,9 @@
     margin-top: -20px;
 }
 
+.v-application {
+    margin-top: -34px;
+}
 
 .myFont, .v-application .body-2{
     font-family: 'Montserrat', sans-serif !important;
