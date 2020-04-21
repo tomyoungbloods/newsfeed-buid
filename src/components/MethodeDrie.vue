@@ -91,6 +91,9 @@ button.bubble.v-btn.v-btn--contained.theme--light.v-size--default {
     color: #555 !important;
 }
 
+.v-btn:not(.v-btn--text):not(.v-btn--outlined):hover:before {
+    opacity: 0;
+}
 
 .RTL {
     background-color: #35a7d7 !important;
