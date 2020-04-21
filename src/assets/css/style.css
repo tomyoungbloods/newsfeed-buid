@@ -1,16 +1,17 @@
+body{
+    background-color: tomato;
+}
+
 .container{
     font-family: 'Montserrat', sans-serif !important;
     padding-bottom: 90px;
     padding-top: 0;
-    background: transparent;
+    background: #eee;
     word-break: break-word;
     margin-top: -20px;
 }
 
-.theme--light.v-application {
-    background: transparent !important;
-    margin-top: -50px;
-}
+
 
 
 
