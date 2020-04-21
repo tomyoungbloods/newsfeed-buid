@@ -9,7 +9,10 @@
 
 .theme--light.v-application {
     background: transparent !important;
+    margin-top: -50px;
 }
+
+
 
 body{
     margin-top: -30px !important;
