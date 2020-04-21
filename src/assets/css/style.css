@@ -4,6 +4,7 @@
     padding-top: 0;
     background: #F2F2F2;
     word-break: break-word;
+    margin-top: -20px;
 }
 
 
@@ -36,6 +37,7 @@
     box-shadow: none;
     font-weight: 600;
     color: #fff;
+    padding-top: 80px;
 }
 
 .theme--light.v-app-bar.v-toolbar.v-sheet {
@@ -103,4 +105,5 @@ img {
 .v-item-group.v-bottom-navigation .v-btn{
     min-width: 25%;
 }
+
 
