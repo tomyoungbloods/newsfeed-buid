@@ -29,8 +29,8 @@ export default {
     data: () => ({
     menuItems: [
       {icon: 'mdi-home', title: 'Nieuws', link: '/'},
-      {icon: 'mdi-newspaper', title: 'Methode 1', link: '/n'},
-      {icon: 'mdi-newspaper-variant-multiple', title: 'Methode 2', link: '/s'},
+      {icon: 'mdi-newspaper', title: 'Methode 1', link: '/methode-1'},
+      {icon: 'mdi-newspaper-variant-multiple', title: 'Methode 2', link: '/methode-2'},
       {icon: 'mdi-chart-scatter-plot', title: 'Methode 3', link: '/methode-3'}
     ]
 })

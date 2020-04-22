@@ -5,7 +5,7 @@
                         <v-img
                         :src="image"
                         class="white--text align-end border-radius-full"
-                        gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
+                        gradient="to bottom, rgba(255,255,255,0) 40%, rgba(80,181,242,1)"
                         height="40vh"
                         
                         >
@@ -14,7 +14,7 @@
             </v-col>
         </v-row>
         <v-row
-        class="ma-4"
+        class="ma-2"
         >
 
             <v-col
