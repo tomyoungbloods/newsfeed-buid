@@ -4,7 +4,7 @@
             <v-col class="no-padding">    
                         <v-img
                         :src="image"
-                        class="white--text align-end border-radius-bottom"
+                        class="white--text align-end border-radius-full"
                         gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
                         height="40vh"
                         
