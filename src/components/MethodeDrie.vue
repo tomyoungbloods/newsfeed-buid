@@ -1,6 +1,6 @@
 <template>
     <div id="methode-drie">
-            <v-row class="full-height"> 
+            <v-row class=" pb-12"> 
 
                  <v-btn 
                     v-for="item in methode"
@@ -24,18 +24,20 @@
 export default {
      data: () => ({
     methode: [
-      { bron: 'HVNL', punten: 70, color: '#453292;'},
-      { bron: 'AD', punten: 130, color: '#453292;'},  
-      { bron: 'CNN', punten: 80, color: '#453292;'}, 
-      { bron: 'NRC', punten: 140, color: '#453292;'},
-      { bron: 'BBC', punten: 90, color: '#453292;'},
-      { bron: 'TELEGRAAF', punten: 100, color: '#453292;'},
-      { bron: 'VOLKSKRANT', punten: 160, color: '#453292;'},
-      { bron: 'NU', punten: 130, color: '#453292;'}, 
-      { bron: 'REUTERS', punten: 60, color: '#453292;'}, 
-      { bron: 'GUARDIAN', punten: 100, color: '#453292;'},
-      { bron: 'RTL', punten: 150, color: '#453292;'},
-      { bron: 'NOS', punten: 180, color: '#453292;'},
+        { bron: 'HVNL', punten: 55, color: '#453292;'},
+        { bron: 'AD', punten: 100, color: '#453292;'}, 
+        { bron: 'CNN', punten: 40, color: '#453292;'}, 
+        { bron: 'RTL', punten: 190, color: '#453292;'}, 
+        { bron: 'NRC', punten: 100, color: '#453292;'},
+        { bron: 'BBC', punten: 110, color: '#453292;'},
+        { bron: 'NOS', punten: 200, color: '#453292;'},
+        { bron: 'TELEGRAAF', punten: 160, color: '#453292;'},
+        { bron: 'VOLKSKRANT', punten: 180, color: '#453292;'},
+        { bron: 'NU', punten: 175, color: '#453292;'}, 
+        { bron: 'GUARDIAN', punten: 120, color: '#453292;'},
+        { bron: 'REUTERS', punten: 40, color: '#453292;'}, 
+        
+        
       
       
     ]
