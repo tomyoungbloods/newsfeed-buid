@@ -8,8 +8,8 @@ import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
 import ViewNews from '@/components/news/ViewNews'
 import EditNews from '@/components/news/EditNews'
-// import Login from '@/components/Login'
-// import Register from '@/components/Register'
+import Login from '@/components/Login'
+import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
 
 
@@ -83,68 +83,60 @@ let router = new Router({
         requiresGuest: true
       }
     },
-    // {
-    //   path: '/login',
-    //   name: 'login',
-    //   component: Login,
-    //   meta: {
-    //     requiresGuest: true
+    {
+      path: '/login',
+      name: 'login',
+      component: Login,
+      meta: {
+        requiresGuest: true
 
-    //   }
-    // },
-    // {
-    //   path: '/register',
-    //   name: 'register',
-    //   component: Register,
-    //   meta: {
-    //     requiresAuth: true
-    //   }
-    // },
+      }
+    },
+    {
+      path: '/register',
+      name: 'register',
+      component: Register,
+      meta: {
+        requiresGuest: true
+      }
+    },
   ]
 })
 
-// // NAV Guards
-// router.beforeEach((to, from, next) => {
-//     // Check for requiredAuth guard
-//     if(to.matched.some(record => record.meta.requiresAuth)) {
-//       // Check if NOT logged in
-//       if(!firebase.auth().currentUser){
-//         // Go to login
-//         next({
-//           path: '/login',
-//           query: {
-//             redirect: to.fullPath
-//           }
-//         });
-//       } else {
-//         // Proceed to route
-//         next();
-//       }
-//     }else if(to.matched.some(record => record.meta.requiresGuest)){
-//       if(firebase.auth().currentUser){
-//         // Go to login
-//         next({
-//           path: '/dashboard',
-//           query: {
-//             redirect: to.fullPath
-//           }
-//         });
-//       } else {
-//         // Proceed to route
-//         next();
-//     }
-//    } else {
-//       // Proceed to route
-//       next();
-//     }
-// });
+// NAV Guards
+router.beforeEach((to, from, next) => {
+    // Check for requiredAuth guard
+    if(to.matched.some(record => record.meta.requiresAuth)) {
+      // Check if NOT logged in
+      if(!firebase.auth().currentUser){
+        // Go to login
+        next({
+          path: '/login',
+          query: {
+            redirect: to.fullPath
+          }
+        });
+      } else {
+        // Proceed to route
+        next();
+      }
+    }else if(to.matched.some(record => record.meta.requiresGuest)){
+      if(firebase.auth().currentUser){
+        // Go to login
+        next({
+          path: '/news',
+          query: {
+            redirect: to.fullPath
+          }
+        });
+      } else {
+        // Proceed to route
+        next();
+    }
+   } else {
+      // Proceed to route
+      next();
+    }
+});
 
 export default router;
-
-// exports.uploaddFile = functions.https.onRequest((req, res) => {
-
-//     res.status(200).json({
-//       message: 'it worked!'
-//     })
-
-// })

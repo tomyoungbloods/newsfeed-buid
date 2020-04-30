@@ -1,6 +1,6 @@
 <template>
     <div id="new-feed">
-       <v-row >
+       <v-row>
             <v-col class="pa-0">     
                 <router-link v-bind:to="{name: 'view-news', params: {news_id: news[0].news_id}}">
                         <v-img

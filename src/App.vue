@@ -1,10 +1,10 @@
 <template>
   <v-app class="myFont">
-    <Navbar></Navbar>
+    <Navbar :key="$route.fullPath"/>
     <v-container>
           <router-view class="px-4"></router-view>
     </v-container>
-    <BottomBar></BottomBar>     
+    <BottomBar/>     
   </v-app>
         
 </template>
@@ -14,8 +14,8 @@
 </style>
 
 <script>
-import Navbar from './components/Navbar'
-import BottomBar from './components/BottomBar'
+import Navbar from './components/menu/Navbar'
+import BottomBar from './components/menu/BottomBar'
 export default {
   name: 'App',
   components: {
