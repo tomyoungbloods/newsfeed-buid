@@ -4,11 +4,11 @@
         fixed
         height="80px"
       >
-      <v-row v-if="isLoggedIn">
-          <LoggedInBar/>
+      <v-row>
+          <LoggedInBar v-if="isLoggedIn"/>
       </v-row>
-      <v-row v-if="!isLoggedIn">
-          <GuestBar/>
+      <v-row>
+          <GuestBar v-if="!isLoggedIn"/>
       </v-row>
         
 
@@ -27,29 +27,21 @@ export default {
     LoggedInBar,
     GuestBar
   },
-     data(){
+      data(){
         return {
             isLoggedIn: false,
             currentUser: false
         }
     },
     created(){
-
         if(firebase.auth().currentUser) {
             this.isLoggedIn = true;
             this.currentUser = firebase.auth().currentUser.email;
         }
-    },
-    methods: {
-        logout: function() {
-            firebase.auth().signOut().then(() => {
-                // alert('Account created for ${user.email}');
-                this.$router.push('/login');
-            });
-        }
     }
     
 };
+
 
     
 </script>

@@ -21,9 +21,9 @@ let router = new Router({
       path: '/',
       name: 'news-feed',
       component: NewsFeed,
-      meta: {
-        requiresGuest: true
-      }
+      // meta: {
+      //   requiresGuest: true,
+      // }
     },
     {
       path: '/news',
@@ -48,7 +48,7 @@ let router = new Router({
       name: 'view-news',
       component: ViewNews,
       meta: {
-        requiresAuth: true
+        requiresGuest: true,
       }
     },
     {

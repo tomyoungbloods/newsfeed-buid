@@ -4,7 +4,7 @@
     <v-container>
           <router-view class="px-4"></router-view>
     </v-container>
-    <BottomBar/>     
+    <BottomBar :key="$route.fullPath"/>     
   </v-app>
         
 </template>

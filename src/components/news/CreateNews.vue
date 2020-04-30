@@ -1,6 +1,5 @@
 <template>
-    <v-container>
-        <v-row align="center" justify="center" class="pt-12">
+        <v-row align="center" justify="center" class="ma-12">
         <form @submit.prevent="saveNews">
       <v-text-field
         v-model="news_id"
@@ -15,15 +14,17 @@
         label="author"
         required
       ></v-text-field>
+            <input type="file" @change="uploadImage" required>
+            <label>News Image1</label>
 
-        <input type="file" @change="uploadImage" required>
-        <label>News Image1</label>
+            <input type="file" @change="uploadImage1">
+            <label>News Image2</label>
 
-        <input type="file" @change="uploadImage1">
-        <label>News Image2</label>
+            <input type="file" @change="uploadImage2">
+            <label>News Image2</label>
+            
 
-        <input type="file" @change="uploadImage2">
-        <label>News Image2</label>
+       
 
         <v-text-field
         v-model="title"
@@ -40,11 +41,11 @@
           value="Hier komt het verhaal"
           required
         ></v-textarea>
-        <button type="submit" class="btn">Submit</button>
+        <v-btn type="submit" color="primary">Submit</v-btn>
         <router-link to="/news" class="btn grey">Cancel</router-link>
             </form>
         </v-row>
-</v-container>
+
 </template> 
 
 <script>

@@ -1,48 +1,41 @@
 <template>
     <div id="new-news">
         <h3>Create News Item</h3>
-        <div class="row">
-           <form @submit.prevent="updateNews" class="col s12">
-                <div class="row">
-                    <div class="input-field colo s12">
-                        <input disabled type="text" v-model="news_id" required>
-                        <label>News ID#</label>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="input-field colo s12">
-                        <input type="text" v-model="author" required>
-                        <label>Auteur</label>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="input-field colo s12">
-                        <input type="text" v-model="image" required>
-                        <label>News Image</label>
-                    </div>
-                </div>
-                 <div class="row">
-                    <div class="input-field colo s12">
-                        <input type="text" v-model="title" required>
-                        <label>Titel</label>
-                    </div>
-                </div>
-                  <div class="row">
-                    <div class="input-field colo s12">
-                        <input type="text" v-model="text" required>
-                        <label>Bericht</label>
-                    </div>
-                </div>
-                  <div class="row">
-                    <div class="input-field colo s12">
-                        <input type="text" v-model="time" required>
-                        <label>Datum Bericht</label>
-                    </div>
-                </div>
-                <button type="submit" class="btn">Submit</button>
-                <router-link to="/news" class="btn grey">Cancel</router-link>
+         <v-row align="center" justify="center" class="pt-12">
+        <form @submit.prevent="updateNews">
+      <v-text-field
+        v-model="news_id"
+        :counter="20"
+        label="number"
+        required
+        type="number"
+      ></v-text-field>
+      <v-text-field
+        v-model="author"
+        :counter="20"
+        label="author"
+        required
+      ></v-text-field>
+
+        <v-text-field
+        v-model="title"
+        :counter="20"
+        label="title"
+        required
+      ></v-text-field>
+
+      <v-textarea
+          v-model="text"
+          filled
+          name="input-7-4"
+          label="Filled textarea"
+          value="Hier komt het verhaal"
+          required
+        ></v-textarea>
+        <v-btn type="submit" color="primary">Submit</v-btn>
+        <router-link to="/news" class="btn grey">Cancel</router-link>
             </form>
-        </div>
+        </v-row>
     </div>
 </template>
 
@@ -54,10 +47,10 @@ export default {
         return{
             news_id: null,
             author: null,
-            image: null,
+            // image: null,
             title: null,
             text: null,
-            time: null
+            // time: null
         }
     },
     //Voordat de pagina geladen wordt haalt hij de data op. 
@@ -68,10 +61,10 @@ export default {
                 next(vm => {
                     vm.news_id = doc.data().news_id
                     vm.author = doc.data().author
-                    vm.image = doc.data().image
+                    // vm.image = doc.data().image
                     vm.title = doc.data().title
                     vm.text = doc.data().text
-                    vm.time = doc.data().time
+                    // vm.time = doc.data().time
                 })
             })
         })
@@ -86,10 +79,10 @@ export default {
                 querySnapshot.forEach(doc => {
                     this.news_id = doc.data().news_id
                     this.author = doc.data().author
-                    this.image = doc.data().image
+                    // this.image = doc.data().image
                     this.title = doc.data().title
                     this.text = doc.data().text
-                    this.time = doc.data().time
+                    // this.time = doc.data().time
                 })
             })
         },
@@ -100,10 +93,10 @@ export default {
                     doc.ref.update({
                         news_id: this.news_id,
                         author: this.author,
-                        image: this.image,
+                        // image: this.image,
                         title: this.title,
                         text: this.text,
-                        time: this.time,
+                        // time: this.time,
                     })
                     .then(() =>
                     {
