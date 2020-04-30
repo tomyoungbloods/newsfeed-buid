@@ -13,17 +13,12 @@
                 -
 
 
-                 <router-link class="secondary-content" v-bind:to="{name: 'view-news', params: {news_id: newsitems.news_id}}">
+                 <router-link class="secondary-content" v-bind:to="{name: 'edit-news', params: {news_id: newsitems.news_id}}">
                     <i class="fa fa-eye"></i>
                 </router-link>
             </li>
         </ul>
 
-        <div class="fixed-action-btn">
-            <router-link to="/new-news" class="btn-floating btn-large red">
-                <i class="fa fa-plus"></i>
-            </router-link>
-        </div>
 
     </div>
 </template>

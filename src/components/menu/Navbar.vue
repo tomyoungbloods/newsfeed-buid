@@ -37,7 +37,7 @@ export default {
         logout: function() {
             firebase.auth().signOut().then(() => {
                 // alert('Account created for ${user.email}');
-                this.$router.push('/login');
+                this.$router.go({path: this.$router.path});
             });
         }
     }

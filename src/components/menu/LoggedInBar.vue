@@ -24,7 +24,7 @@ export default {
     menuItems: [
       {icon: 'mdi-home', title: 'Nieuws', link: '/'},
       {icon: 'mdi-newspaper-plus', title: 'Nieuw Bericht', link: '/new-news'},
-      {icon: 'mdi-email-newsletter', title: 'Bewerk Bericht', link: '/news-dashboard'},
+      {icon: 'mdi-email-newsletter', title: 'Bewerk Bericht', link: '/news'},
     ],
         
     }),
