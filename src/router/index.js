@@ -4,6 +4,7 @@ import NewsFeed from '@/components/NewsFeed'
 import MethodeEen from '@/components/MethodeEen'
 import MethodeTwee from '@/components/MethodeTwee'
 import MethodeDrie from '@/components/MethodeDrie'
+import MethodeVier from '@/components/MethodeVier'
 import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
 import ViewNews from '@/components/news/ViewNews'
@@ -63,6 +64,14 @@ let router = new Router({
       path: '/methode-3',
       name: 'methode-drie',
       component: MethodeDrie,
+      meta: {
+        requiresGuest: true
+      }
+    },
+    {
+      path: '/methode-4',
+      name: 'methode-vier',
+      component: MethodeVier,
       meta: {
         requiresGuest: true
       }
