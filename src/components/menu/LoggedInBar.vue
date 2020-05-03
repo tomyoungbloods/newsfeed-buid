@@ -1,5 +1,5 @@
 <template>
-<v-col class="logged-in">
+<v-row class="logged-in">
           <v-btn
           v-for="item in menuItems"
           :key="item.title"
@@ -12,7 +12,7 @@
             <v-icon>{{ item.icon }}</v-icon>
           </v-btn>
 
-</v-col>
+</v-row>
 
 
 </template>

@@ -12,40 +12,84 @@
                             <v-card-title class="font-weight-bold" ></v-card-title>
                         </v-img>
             </v-col>
-           <div id="surveyContainer"><survey :survey="survey"></survey></div>
         </v-row>
-            <v-row class="full-height"> 
-               
+            <v-row class="full-height">
+                <v-col cols="12"> 
+            <form @submit.prevent="saveNews">
+                <v-text-field
+                    v-model="naam"
+                    :counter="20"
+                    label="Naam"
+                    required
+                ></v-text-field>
+                <v-text-field
+                    v-model="leeftijd"
+                    :counter="2"
+                    label="Leeftijd"
+                    required
+                    type="number"
+                ></v-text-field>
+               <v-select
+                    v-model="sport"
+                    :items="items"
+                    :menu-props="{ top: true, offsetY: true }"
+                    label="Wie spreekt de waarheid over sport"
+                ></v-select>
+                <v-select
+                    v-model="klimaat"
+                    :items="items"
+                    :menu-props="{ top: true, offsetY: true }"
+                    label="Wie spreekt de waarheid over het klimaat"
+                ></v-select>
+                <v-select
+                    v-model="politiek"
+                    :items="items"
+                    :menu-props="{ top: true, offsetY: true }"
+                    label="Wie spreekt de waarheid over de politiek"
+                ></v-select>
+                <v-select
+                    v-model="koningshuis"
+                    :items="items"
+                    :menu-props="{ top: true, offsetY: true }"
+                    label="Wie spreekt de waarheid over het koningshuis"
+                ></v-select>
+                <v-btn type="submit" color="primary">Submit</v-btn>
+
+            </form>
+            </v-col>
             </v-row>
     </div>
 </template>
 <script>
-import * as SurveyVue from 'survey-vue'
-import 'bootstrap/dist/css/bootstrap.css';
+import db from './firebaseInit'
+import firebase, { storage } from 'firebase'
 
-var Survey = SurveyVue.Survey
+  export default {
+    data () {
+      return {
+       items: ['NOS', 'RTL', 'VOLKSKRANT', 'NU.NL'],
 
-export default{
-     components: {
-    Survey
-     },
-    data() {
-       var json = {
-     elements: [
-      { type: "text", name: "customerName", title: "What is your name?", isRequired: true}
-     ]
-    };
-    //Create the model and pass it into VueSJ Survey component
-    var model = new SurveyVue.Model(json)
-
-    return {
-        survey: model
-    }
-
-    }
-
-    
-
-    }
+        naam: null,
+        leeftijd: null,
+        sport: null,
+        klimaat: null,
+        politiek: null,
+        koningshuis: null
+      }
+    },
+    methods : {
+        saveNews(){
+            db.collection('methode4').add({
+                    naam: this.naam,
+                    leeftijd: this.leeftijd,
+                    sport: this.sport,
+                    klimaat: this.klimaat,
+                    politiek: this.politiek,
+                    koningshuis: this.koningshuis
+            })
+            .then(this.$router.push('/'))
+            }
+  }
+  }
 
 </script>

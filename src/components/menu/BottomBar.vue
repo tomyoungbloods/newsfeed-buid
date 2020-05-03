@@ -4,12 +4,12 @@
         fixed
         height="80px"
       >
-      <v-row>
+
           <LoggedInBar v-if="isLoggedIn"/>
-      </v-row>
-      <v-row>
+
+
           <GuestBar v-if="!isLoggedIn"/>
-      </v-row>
+
         
 
   </v-bottom-navigation>

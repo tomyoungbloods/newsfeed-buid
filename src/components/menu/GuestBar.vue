@@ -1,5 +1,5 @@
 <template>
-<v-col>
+<v-row>
           <v-btn
           v-for="item in menuItems"
           :key="item.title"
@@ -12,7 +12,7 @@
             <v-icon>{{ item.icon }}</v-icon>
           </v-btn>
 
-</v-col>
+</v-row>
 
  
 </template>
@@ -23,9 +23,9 @@ export default {
 
     menuItems: [
       {icon: 'mdi-home', title: 'Nieuws', link: '/'},
-      {icon: 'mdi-newspaper', title: 'Methode 1', link: '/methode-1'},
       {icon: 'mdi-newspaper-variant-multiple', title: 'Methode 2', link: '/methode-2'},
-      {icon: 'mdi-chart-scatter-plot', title: 'Method3', link: '/methode-3'}
+      {icon: 'mdi-chart-scatter-plot', title: 'Methode 3', link: '/methode-3'},
+      {icon: 'mdi-ab-testing', title: 'Methode 4', link: '/methode-4'}
     ],
         
     }),
