@@ -51,7 +51,7 @@
                 <v-list dense>
                     <v-list-item
                     v-for="item in items"
-                    :key="item.icon"
+                    :key="item.key"
                     :to="item.link"
                     link
                     >
@@ -112,8 +112,8 @@ export default {
             group: null,
 
             items: [
-                { icon: 'mdi-ab-testing' ,title: 'Methode 3 Resultaten', link: '/methode-3' },
-                { icon: 'mdi-chart-scatter-plot' ,title: 'Methode 4 Resultaten', link: '/methode-4-results' },
+                { icon: 'mdi-ab-testing' ,title: 'Methode 3 Resultaten', link: '/methode-3', key: 'methode3' },
+                { icon: 'mdi-chart-scatter-plot' ,title: 'Methode 4 Resultaten', link: '/methode-4-results', key: 'methode4' },
             ],
         }
     },
