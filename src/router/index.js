@@ -5,6 +5,7 @@ import MethodeEen from '@/components/MethodeEen'
 import MethodeTwee from '@/components/MethodeTwee'
 import MethodeDrie from '@/components/MethodeDrie'
 import MethodeVier from '@/components/MethodeVier'
+import ViewMethodeVier from '@/components/ViewMethodeVier'
 import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
 import ViewNews from '@/components/news/ViewNews'
@@ -69,14 +70,6 @@ let router = new Router({
       }
     },
     {
-      path: '/methode-4',
-      name: 'methode-vier',
-      component: MethodeVier,
-      meta: {
-        requiresGuest: true
-      }
-    },
-    {
       path: '/methode-1',
       name: 'methode-een',
       component: MethodeEen,
@@ -88,6 +81,22 @@ let router = new Router({
       path: '/methode-2',
       name: 'methode-twee',
       component: MethodeTwee,
+      meta: {
+        requiresGuest: true
+      }
+    },
+        {
+      path: '/methode-4',
+      name: 'methode-vier',
+      component: MethodeVier,
+      meta: {
+        requiresGuest: true
+      }
+    },
+    {
+      path: '/methode-4-results',
+      name: 'view-methode-vier',
+      component: ViewMethodeVier,
       meta: {
         requiresGuest: true
       }

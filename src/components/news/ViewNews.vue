@@ -44,31 +44,6 @@
             </v-col>
 
         </v-row>
-
-
-
-            <!-- <ul class="collection with-header">
-                <li class="collection-header">
-                    <h4>{{title}}</h4>
-                </li>
-                <li class="collection-item">News ID: {{news_id}}</li>
-                <li class="collection-item">Schrijver: {{author}}</li>
-                <li class="collection-item">News Image: 
-                    {{image}}
-                </li>
-                <li class="collection-item">News Title: {{title}}</li>
-                <li class="collection-item">News Text: {{text}}</li>
-                <li class="collection-item">News Time: {{time}}</li>
-            </ul>
-            <img :src="image" style="width:100%;" alt="">
-
-            <router-link to="/news" class="btn grey">Back</router-link>
-            <button @click="deleteNews" class="btn red">Delete</button>
-                <div class="fixed-action-btn">
-                <router-link v-bind:to="{ name: 'edit-news', params: {news: news_id}}" class="btn-floating btn-large red">
-                    <i class="fa fa-pencil"></i>
-                </router-link>
-            </div> -->
         </div>
 </template>
 
@@ -106,39 +81,6 @@ export default {
             })
         })
     },
-    // watch: {
-    //     '$route': 'fetchData'
-    // },
-    // methods: {
-    //     fetchData (){
-    //         db.collection('news').where('news_id', '==', this.$route.params.news_id).get()
-    //         .then(querySnapshot => {
-    //             querySnapshot.forEach(doc => {
-    //                 this.news_id = doc.data().news_id
-    //                 this.author = doc.data().author
-    //                 this.image = doc.data().image
-    //                 this.image1 = doc.data().image1
-    //                 this.image2 = doc.data().image2
-    //                 this.title = doc.data().title
-    //                 this.text = doc.data().text
-    //                 this.time = doc.data().time
-    //             })
-    //         })
-    //     },
-    //     deleteNews () {
-    //     if(confirm('Are you sure?')) {
-    //         {
-    //         db.collection('news').where('id', '==', this.$route.params.id).get()
-    //         .then(querySnapshot => {
-    //             querySnapshot.forEach(doc => {
-    //                 doc.ref.delete();
-    //                 this.$router.push('/news');
-    //             })
-    //         })
-    //     }
-    //     }
-    // }
-    // }
 }
 </script>
 
