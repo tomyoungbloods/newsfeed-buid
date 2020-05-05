@@ -23,9 +23,7 @@ let router = new Router({
       path: '/',
       name: 'news-feed',
       component: NewsFeed,
-      // meta: {
-      //   requiresGuest: true,
-      // }
+
     },
     {
       path: '/news',
@@ -49,9 +47,6 @@ let router = new Router({
       path: '/news/:news_id',
       name: 'view-news',
       component: ViewNews,
-      meta: {
-        requiresGuest: true,
-      }
     },
     {
       path: '/news/edit/:news_id',
@@ -59,14 +54,6 @@ let router = new Router({
       component: EditNews,
       meta: {
         requiresAuth: true
-      }
-    },
-    {
-      path: '/methode-3',
-      name: 'methode-drie',
-      component: MethodeDrie,
-      meta: {
-        requiresGuest: true
       }
     },
     {
@@ -85,6 +72,11 @@ let router = new Router({
         requiresGuest: true
       }
     },
+    {
+      path: '/methode-3',
+      name: 'methode-drie',
+      component: MethodeDrie,
+    },
         {
       path: '/methode-4',
       name: 'methode-vier',
@@ -97,9 +89,6 @@ let router = new Router({
       path: '/methode-4-results',
       name: 'view-methode-vier',
       component: ViewMethodeVier,
-      meta: {
-        requiresGuest: true
-      }
     },
     {
       path: '/login',
