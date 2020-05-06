@@ -4,10 +4,10 @@ module.exports = {
     msTileColor: '#000000',
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: 'black-translucent',
-    workboxPluginMode: 'GenerateSW',
+    workboxPluginMode: 'InjectManifest',
     workboxOptions: {
-      navigateFallback: '/index.html',
-      skipWaiting: true
+      swSrc: './src/sw.js',
+      swDest: 'service-worker.js',
       // runtimeCaching: [
       //   {
       //     urlPattern: new RegExp('^https://api.zippopotam.us/us/'),

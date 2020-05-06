@@ -17,7 +17,6 @@
         <v-spacer />
         <v-btn
           dark
-          flat
           color="#00f500"
           @click.native="refreshApp"
         >
@@ -54,7 +53,7 @@ export default {
       registration: null,
       snackBtnText: '',
       snackWithBtnText: '',
-      snackWithButtons: false,
+      snackWithButtons: true,
       timeout: 0,
     };
   },
