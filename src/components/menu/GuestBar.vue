@@ -25,7 +25,7 @@ export default {
       {icon: 'mdi-home', title: 'Nieuws', link: '/'},
       {icon: 'mdi-newspaper-variant-multiple', title: 'Methode 2', link: '/methode-2'},
       {icon: 'mdi-chart-scatter-plot', title: 'Methode 3', link: '/methode-3'},
-      {icon: 'mdi-ab-testing', title: 'Methode 4', link: '/methode-4'}
+      {icon: 'mdi-ab-testing', title: 'Methodes 4', link: '/methode-4'}
     ],
         
     }),
