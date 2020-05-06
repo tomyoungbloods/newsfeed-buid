@@ -4,7 +4,7 @@
     </div>
 </template>
 <script>
-var Twit = require('twit')
+// var Twit = require('twit')
 
 // var T = new Twit({
 //   consumer_key:         '...',
@@ -15,9 +15,9 @@ var Twit = require('twit')
 //   strictSSL:            true,     // optional - requires SSL certificates to be valid.
 // })
 
-T.get('search/tweets', { q: 'banana since:2011-07-11', count: 2 }, function(err, data, response) {
-  console.log(data)
-});
+// T.get('search/tweets', { q: 'banana since:2011-07-11', count: 2 }, function(err, data, response) {
+//   console.log(data)
+// });
 
 
 </script>
