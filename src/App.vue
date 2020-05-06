@@ -22,12 +22,12 @@
         >
           {{ snackBtnText }}
         </v-btn>
-        <v-btn
+        <!-- <v-btn
           class="white primary"
           @click="snackWithButtons = false"
         >
         Sluit
-        </v-btn>
+        </v-btn> -->
       </v-snackbar>
     </v-content>     
   </v-app>
@@ -53,7 +53,7 @@ export default {
       registration: null,
       snackBtnText: 'Update',
       snackWithBtnText: '',
-      snackWithButtons: false, 
+      snackWithButtons: true, 
       timeout: 0,
     };
   },
@@ -74,7 +74,7 @@ export default {
       // The new service worker is installed, but not yet active.
       // Store the ServiceWorkerRegistration instance for later use.
       this.registration = e.detail;
-      this.snackBtnText = 'Refresh';
+      this.snackBtnText = 'Update';
       this.snackWithBtnText = 'New version available!';
       this.snackWithButtons = true;
     },
