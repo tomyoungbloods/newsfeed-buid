@@ -6,7 +6,7 @@
     </v-container>
     <BottomBar :key="$route.fullPath"/>
         <v-content>
-      <v-snackbar
+      <v-snackbar 
         v-model="snackWithButtons"
         :timeout="timeout"
         bottom
