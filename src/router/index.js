@@ -5,11 +5,12 @@ import MethodeEen from '@/components/MethodeEen'
 import MethodeTwee from '@/components/MethodeTwee'
 import MethodeDrie from '@/components/MethodeDrie'
 import MethodeVier from '@/components/MethodeVier'
-import ViewMethodeVier from '@/components/ViewMethodeVier'
+import MethodeVijf from '@/components/twitter/MethodeVijf'
+import ViewMethodeVier from '@/components/ViewMethodeVier' 
 import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
 import ViewNews from '@/components/news/ViewNews'
-import EditNews from '@/components/news/EditNews'
+import EditNews from '@/components/news/EditNews' 
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
@@ -90,6 +91,12 @@ let router = new Router({
       name: 'view-methode-vier',
       component: ViewMethodeVier,
     },
+    {
+      path: '/methode-5',
+      name: 'methode-vijf',
+      component: MethodeVijf,
+    },
+
     {
       path: '/login',
       name: 'login',
