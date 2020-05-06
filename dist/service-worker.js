@@ -14,16 +14,12 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5c112ad77449f39c3c061178f5d657dc.js"
+  "/precache-manifest.d8c6f8d114b7159f778a460a5f03e68e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "newsapp"});
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -34,5 +30,3 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/index.html"));
-
-workbox.routing.registerRoute(/^https:\/\/api.zippopotam.us\/us\//, new workbox.strategies.NetworkFirst({ "cacheName":"api cache","networkTimeoutSeconds":20, plugins: [new workbox.cacheableResponse.Plugin({ statuses: [ 0, 200 ] })] }), 'GET');

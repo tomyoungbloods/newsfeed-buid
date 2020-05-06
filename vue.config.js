@@ -7,6 +7,7 @@ module.exports = {
     workboxPluginMode: 'GenerateSW',
     workboxOptions: {
       navigateFallback: '/index.html',
+      skipWaiting: true
       // runtimeCaching: [
       //   {
       //     urlPattern: new RegExp('^https://api.zippopotam.us/us/'),
