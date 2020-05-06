@@ -53,7 +53,7 @@ export default {
       registration: null,
       snackBtnText: '',
       snackWithBtnText: '',
-      snackWithButtons: true,
+      snackWithButtons: false, 
       timeout: 0,
     };
   },
