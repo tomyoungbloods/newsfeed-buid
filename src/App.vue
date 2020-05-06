@@ -13,20 +13,20 @@
         left
         class="snack"
       >
-        Jeh
+        Er is een nieuwe update!
         <v-spacer />
         <v-btn
-          dark
-          color="#00f500"
+          white
+          primary
           @click.native="refreshApp"
         >
           {{ snackBtnText }}
         </v-btn>
         <v-btn
-          icon
+          class="white primary"
           @click="snackWithButtons = false"
         >
-          <v-icon>close</v-icon>
+        Sluit
         </v-btn>
       </v-snackbar>
     </v-content>     
@@ -51,7 +51,7 @@ export default {
     return {
       refreshing: false,
       registration: null,
-      snackBtnText: '',
+      snackBtnText: 'Update',
       snackWithBtnText: '',
       snackWithButtons: false, 
       timeout: 0,
