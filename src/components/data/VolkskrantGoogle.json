@@ -1,0 +1,166 @@
+{
+    "search_metadata": {
+      "id": "5eb429bd158a7e3d8b1298c7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/fa1ec6f1d49b26a5/5eb429bd158a7e3d8b1298c7.json",
+      "created_at": "2020-05-07 15:31:09 UTC",
+      "processed_at": "2020-05-07 15:31:09 UTC",
+      "google_url": "https://www.google.nl/search?q=Volkskrant+CORONA&oq=Volkskrant+CORONA&uule=w+CAIQICILTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/fa1ec6f1d49b26a5/5eb429bd158a7e3d8b1298c7.html",
+      "total_time_taken": 2.58
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Volkskrant CORONA",
+      "location_requested": "Netherlands",
+      "location_used": "Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 2610000,
+      "time_taken_displayed": 0.51,
+      "query_displayed": "Volkskrant CORONA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "De belangrijkste grafieken en kaarten over de ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/de-belangrijkste-grafieken-en-kaarten-over-de-uitbraak-van-het-coronavirus-op-een-rij~b18f4613/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › de-belangrijks...",
+        "thumbnail": null,
+        "date": "3 dagen geleden",
+        "snippet": "Vanwege de uitbraak van het coronavirus verschijnen dagelijks vele cijfers en grafieken. ... Ziekenhuisopnamen vanwege corona ..."
+      },
+      {
+        "position": 2,
+        "title": "Corona wereldwijd – cijfers over het coronavirus in alle ...",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/corona-wereldwijd-cijfers-over-het-coronavirus-in-alle-landen-op-een-rij~b14e8079/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › corona-wereld...",
+        "thumbnail": null,
+        "date": "6 uur geleden",
+        "snippet": "De Volkskrant zet daarom de belangrijkste internationale cijfers op een rij en ververst ze enkele keren per dag. Bij elke grafiek staat een ..."
+      },
+      {
+        "position": 3,
+        "title": "CORONAVIRUS | De Volkskrant",
+        "link": "https://www.volkskrant.nl/dossier/corona-virus",
+        "displayed_link": "www.volkskrant.nl › dossier › corona-virus",
+        "thumbnail": null,
+        "snippet": "Het laatste nieuws met duiding van redacteuren, achtergronden, columns, opinie, wetenschap, en recensies van kunst & cultuur door de Volkskrant.",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "'Niet zo dichtbij', zegt de vrouw ...",
+              "link": "https://www.volkskrant.nl/nieuws-achtergrond/niet-zo-dichtbij-zegt-de-vrouw-met-de-sjaal-en-de-mondkap-bij-de-italiaanse-supermarkt~bc5578d8/"
+            },
+            {
+              "title": "Het middel tegen het ...",
+              "link": "https://www.volkskrant.nl/wetenschap/het-middel-tegen-het-coronavirus-bestaat-misschien-al-lang~b27d1816/"
+            },
+            {
+              "title": "Superbesmetter",
+              "link": "https://www.volkskrant.nl/nieuws-achtergrond/zuid-koreaanse-vrouw-blijkt-superbesmetter-van-geloofsgenoten-met-coronavirus~b2985693/"
+            }
+          ]
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QNhOMEyrhe0J:https://www.volkskrant.nl/dossier/corona-virus+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "corona | De Volkskrant",
+        "link": "https://www.volkskrant.nl/tag/corona",
+        "displayed_link": "www.volkskrant.nl › tag › corona",
+        "thumbnail": null,
+        "snippet": "Het laatste nieuws met duiding van redacteuren, achtergronden, columns, opinie, wetenschap, en recensies van kunst & cultuur door de Volkskrant.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i1BrfcIFQG0J:https://www.volkskrant.nl/tag/corona+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "Twee maanden werd hier gestreden tegen corona. Nu is het ...",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/twee-maanden-werd-hier-gestreden-tegen-corona-nu-is-het-normale-leven-hervat~bdd1c402/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › twee-maand...",
+        "thumbnail": null,
+        "date": "2 dagen geleden",
+        "snippet": "Zeven weken deed Volkskrant-journalist Willem Feenstra verslag vanuit ziekenhuis Amphia in Breda, waar op het oog het normale leven is ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:V840miq6mAQJ:https://www.volkskrant.nl/nieuws-achtergrond/twee-maanden-werd-hier-gestreden-tegen-corona-nu-is-het-normale-leven-hervat~bdd1c402/+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "Leven met corona | De Volkskrant",
+        "link": "https://www.volkskrant.nl/dossier/leven-met-corona",
+        "displayed_link": "www.volkskrant.nl › dossier › leven-met-corona",
+        "thumbnail": null,
+        "snippet": "Het laatste nieuws met duiding van redacteuren, achtergronden, columns, opinie, wetenschap, en recensies van kunst & cultuur door de Volkskrant.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jqAUyxgE-JwJ:https://www.volkskrant.nl/dossier/leven-met-corona+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "Arts Coen Feron (28) vocht voor het leven van ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/arts-coen-feron-28-vocht-voor-het-leven-van-coronapatienten-en-toen-belandde-hij-zelf-op-de-ic~bae32e1d/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › arts-coen-fero...",
+        "thumbnail": null,
+        "date": "24 apr. 2020",
+        "snippet": "Coen Feron (28), anesthesioloog in opleiding, is volop bezig met het redden van coronapatiënten als hijzelf besmet blijkt te zijn. Zijn grote ..."
+      },
+      {
+        "position": 8,
+        "title": "Coronavirus | De Volkskrant",
+        "link": "https://www.volkskrant.nl/dossier/coronavirus",
+        "displayed_link": "www.volkskrant.nl › dossier › coronavirus",
+        "thumbnail": null,
+        "snippet": "Het laatste nieuws met duiding van redacteuren, achtergronden, columns, opinie, wetenschap, en recensies van kunst & cultuur door de Volkskrant.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XN49p0UKwHMJ:https://www.volkskrant.nl/dossier/coronavirus+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "Hoe dodelijk is het coronavirus? Dit zeggen de ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/hoe-dodelijk-is-het-coronavirus-dit-zeggen-de-cijfers~ba1c6124/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › hoe-dodelijk-i...",
+        "thumbnail": null,
+        "date": "24 apr. 2020",
+        "snippet": "Het is een confronterend onderwerp: hoe dodelijk is het coronavirus eigenlijk? Wie voorbij de emotie naar de cijfers kijkt, kan – hoe ..."
+      },
+      {
+        "position": 10,
+        "title": "Meer sterfgevallen coronavirus, blijkt uit nieuwe ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/meer-sterfgevallen-coronavirus-blijkt-uit-nieuwe-cijfers-verzameld-door-huisartsen~b1acdc4f/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › meer-sterfgev...",
+        "thumbnail": null,
+        "date": "25 apr. 2020",
+        "snippet": "Nederlandse huisartsen melden 764 sterfgevallen van het coronavirus die nog niet bekend waren in de statistieken van het RIVM, ..."
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=10&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8NMDegQICxBJ",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=10&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=20&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=30&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=40&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=50&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=60&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=70&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=Volkskrant+CORONA&hl=nl&gl=nl&ei=vim0XoS7NdXJ-gTopKXIBQ&start=80&sa=N&ved=2ahUKEwiEkvOPiaLpAhXVpJ4KHWhSCVkQ8tMDegQICxBH"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=Volkskrant+CORONA&start=80"
+      }
+    }
+  }
