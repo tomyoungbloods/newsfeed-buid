@@ -15,7 +15,7 @@ import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
 
-
+ 
 Vue.use(Router)
 
 let router = new Router({

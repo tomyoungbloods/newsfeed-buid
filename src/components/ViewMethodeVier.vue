@@ -13,10 +13,10 @@
 
 
 <script>
-import sport from './methodeVier/sport'
-import politiek from './methodeVier/politiek'
-import koningshuis from './methodeVier/koningshuis'
-import klimaat from './methodeVier/klimaat'
+import sport from './methodes/methodeVier/sport'
+import politiek from './methodes/methodeVier/politiek'
+import koningshuis from './methodes/methodeVier/koningshuis'
+import klimaat from './methodes/methodeVier/klimaat'
 
 export default {
     name: 'view-methode-vier',

@@ -78,7 +78,7 @@
 </style>
 
 <script>
-import db from '../firebaseInit'
+import db from '../../firebaseInit'
 import firebase, { storage } from 'firebase'
 export default {
    data(){
