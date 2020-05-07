@@ -17,9 +17,6 @@
             </v-row>
     </div>
 </template>
-
-
-
 <script>
 export default {
      data: () => ({

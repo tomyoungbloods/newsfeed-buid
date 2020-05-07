@@ -1,0 +1,140 @@
+{
+    "search_metadata": {
+      "id": "5eb42977e53e061a05beb853",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/5b976a196614bc2a/5eb42977e53e061a05beb853.json",
+      "created_at": "2020-05-07 15:29:59 UTC",
+      "processed_at": "2020-05-07 15:30:00 UTC",
+      "google_url": "https://www.google.nl/search?q=RTL+CORONA&oq=RTL+CORONA&uule=w+CAIQICILTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/5b976a196614bc2a/5eb42977e53e061a05beb853.html",
+      "total_time_taken": 13.33
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "RTL CORONA",
+      "location_requested": "Netherlands",
+      "location_used": "Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 53800000,
+      "time_taken_displayed": 0.53,
+      "query_displayed": "RTL CORONA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Coronavirus | RTL Nieuws",
+        "link": "https://www.rtlnieuws.nl/tags/onderwerpen/gezondheid/ziektes-en-aandoeningen/virusziekte/coronavirus",
+        "displayed_link": "www.rtlnieuws.nl › tags › gezondheid › virusziekte › c...",
+        "thumbnail": null,
+        "snippet": "Coronavirus. Covid-19 corona-update. Volg als eerste nieuwe updates over: Coronavirus. Wil jij dit nieuwsverhaal volgen? Ga dan naar 'Mijn RTL Nieuws' en ...",
+        "sitelinks": {
+          "expanded": [
+            {
+              "title": "Corona-update",
+              "link": "https://www.rtlnieuws.nl/tags/onderwerpen/gezondheid/ziektes-en-aandoeningen/virusziekte/coronavirus/corona-update",
+              "snippet": "corona-update."
+            }
+          ]
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B63eSIyIjQkJ:https://www.rtlnieuws.nl/tags/onderwerpen/gezondheid/ziektes-en-aandoeningen/virusziekte/coronavirus+&cd=1&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "Aantal coronapatiënten op intensive care zakt naar 584 | RTL ...",
+        "link": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5114206/corona-liveblog-covid19-virusziekte-maatregelen-immuniteit",
+        "displayed_link": "www.rtlnieuws.nl › nieuws › nederland › artikel › coro...",
+        "thumbnail": null,
+        "date": "11 uur geleden",
+        "snippet": "Volg de ontwikkelingen rond het coronavirus in dit liveblog. ... Het aantal doden in Nederland door corona is opgelopen tot 5288. Bekijk hier ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4QXD2_6HoNMJ:https://www.rtlnieuws.nl/nieuws/nederland/artikel/5114206/corona-liveblog-covid19-virusziekte-maatregelen-immuniteit+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "RTL Corona Update: Het laatste nieuws - RTL",
+        "link": "https://www.rtl.nl/over/rtl-corona-update-het-laatste-nieuws/WbuezSsAAOoLO5ue",
+        "displayed_link": "www.rtl.nl › over › rtl-corona-update-het-laatste-nieuws",
+        "thumbnail": null,
+        "snippet": "Blijf 24 uur per dag op de hoogte van het laatste nieuws. RTL Nieuws · RTL Boulevard · Jinek · RTL Z · Editie NL · Contactgegevens redacties ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BbJT8WlObLYJ:https://www.rtl.nl/over/rtl-corona-update-het-laatste-nieuws/WbuezSsAAOoLO5ue+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "Corona Update - RTL",
+        "link": "https://www.rtl.nl/over/corona-update/XnisyxEAAB8ApSB7",
+        "displayed_link": "www.rtl.nl › over › corona-update",
+        "thumbnail": null,
+        "snippet": "Welkom! De ontwikkelingen rondom het coronavirus hebben impact op heel Nederland en daarmee ook op de programmering en activiteiten van RTL.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:frzOwhkx1HoJ:https://www.rtl.nl/over/corona-update/XnisyxEAAB8ApSB7+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "RTL Z Nieuws - Corona: de klap die Duitsland niet kan ...",
+        "link": "https://www.rtl.nl/video/ca21f436-fd4a-4744-83c0-dc182d28c2c6/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "snippet": "Het gaat niet lekker met de economie van onze buren. Een Europese uitbraak van het coronavirus kunnen de Duitsers dus echt niet gebruiken. do 2 jan 2020.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9T7Y82UGrF0J:https://www.rtl.nl/video/ca21f436-fd4a-4744-83c0-dc182d28c2c6/+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "Coronavirus - RTL-Z",
+        "link": "https://www.rtlz.nl/tags/onderwerpen/gezondheid/ziektes-en-aandoeningen/virusziekte/coronavirus",
+        "displayed_link": "www.rtlz.nl › ziektes-en-aandoeningen › virusziekte › c...",
+        "thumbnail": null,
+        "snippet": "RTL stelt profielen op met de gegevens die zij deelt met NL Profiel, een samenwerking tussen Sanoma, DPG Media, Mediahuis en RTL. Kijk voor meer informatie ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9ZBZUraiPEEJ:https://www.rtlz.nl/tags/onderwerpen/gezondheid/ziektes-en-aandoeningen/virusziekte/coronavirus+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "RTL Nieuws - Volg alle ontwikkelingen over #corona in ons ...",
+        "link": "https://www.facebook.com/rtlnieuws/posts/volg-alle-ontwikkelingen-over-corona-in-ons-liveblog-/10160362270239852/",
+        "displayed_link": "www.facebook.com › rtlnieuws › posts › volg-alle-ont...",
+        "thumbnail": null,
+        "snippet": "Volg alle ontwikkelingen over #corona in ons liveblog. ... See more of RTL Nieuws on Facebook. Log In. Forgot account? or. Create New Account. Not Now.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CHbH-KtYXBkJ:https://www.facebook.com/rtlnieuws/posts/volg-alle-ontwikkelingen-over-corona-in-ons-liveblog-/10160362270239852/+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "Coronavirus | NU - Het laatste nieuws het eerst op NU.nl",
+        "link": "https://www.nu.nl/tag/Coronavirus",
+        "displayed_link": "www.nu.nl › tag › Coronavirus",
+        "thumbnail": null,
+        "snippet": "NU.nl heeft je steun nodig. Je gebruikt een adblocker. Wij kunnen onze artikelen alleen gratis toegankelijk voor je maken dankzij advertenties. Wil je jouw ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U8E3s8Bq_fMJ:https://www.nu.nl/tag/Coronavirus+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "RTL Nieuws: Bekijk overzicht met uiteenlopende klachten van ...",
+        "link": "https://www.gids.tv/video/194243/rtl-nieuws-bekijk-overzicht-met-uiteenlopende-klachten-van-coronapatienten",
+        "displayed_link": "www.gids.tv › video › rtl-nieuws-bekijk-overzicht-met-...",
+        "thumbnail": null,
+        "snippet": "De klachten die Coronapatiënten hebben, lopen nogal uiteen. De een die besmet is met het Coronavirus heeft bijna geen klachten en voelt zich goed, terwijl ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0wcZ0MG0BFUJ:https://www.gids.tv/video/194243/rtl-nieuws-bekijk-overzicht-met-uiteenlopende-klachten-van-coronapatienten+&cd=10&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=RTL+CORONA&gl=nl&hl=nl&ei=hCm0Xp2PIcKHmwXp34KQBA&start=10&sa=N&ved=2ahUKEwid4Yr0iKLpAhXCw6YKHemvAEIQ8NMDegQIChA_",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=RTL+CORONA&gl=nl&hl=nl&ei=hCm0Xp2PIcKHmwXp34KQBA&start=10&sa=N&ved=2ahUKEwid4Yr0iKLpAhXCw6YKHemvAEIQ8tMDegQIChA5",
+        "3": "https://www.google.nl/search?q=RTL+CORONA&gl=nl&hl=nl&ei=hCm0Xp2PIcKHmwXp34KQBA&start=20&sa=N&ved=2ahUKEwid4Yr0iKLpAhXCw6YKHemvAEIQ8tMDegQIChA7",
+        "4": "https://www.google.nl/search?q=RTL+CORONA&gl=nl&hl=nl&ei=hCm0Xp2PIcKHmwXp34KQBA&start=30&sa=N&ved=2ahUKEwid4Yr0iKLpAhXCw6YKHemvAEIQ8tMDegQIChA9"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=RTL+CORONA&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=RTL+CORONA&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=RTL+CORONA&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=RTL+CORONA&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Netherlands&q=RTL+CORONA&start=30"
+      }
+    }
+  }

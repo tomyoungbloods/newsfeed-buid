@@ -114,6 +114,7 @@ export default {
             items: [
                 { icon: 'mdi-ab-testing' ,title: 'Methode 3 Resultaten', link: '/methode-3', key: 'methode3' },
                 { icon: 'mdi-chart-scatter-plot' ,title: 'Methode 4 Resultaten', link: '/methode-4-results', key: 'methode4' },
+                { icon: 'mdi-magnify' ,title: 'Methode 5 Resultaten', link: '/methode-5', key: 'methode5' },
             ],
         }
     },
