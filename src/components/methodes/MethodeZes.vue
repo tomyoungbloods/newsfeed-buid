@@ -1,6 +1,8 @@
 <template>
   <div>
-    <svg width="300" height="500">
+    <h5>Zoekresultaten Google</h5>
+    <p>De Zoekresultaten die hier getoond worden zijn op basis van de zoekopdracht 'Corona'.</p>
+    <svg width="300" height="400">
       <g
         class="flower"
         v-for="flower in layoutData.children"
@@ -80,7 +82,7 @@ export default {
 
       // Pack the circles inside the viewbox
       return pack()
-        .size([300, 500])
+        .size([300, 400])
         .padding(10)(rootHierarchy)
     }
   }
