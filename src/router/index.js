@@ -6,6 +6,7 @@ import MethodeTwee from '@/components/methodes/MethodeTwee'
 import MethodeDrie from '@/components/methodes/MethodeDrie'
 import MethodeVier from '@/components/methodes/MethodeVier'
 import MethodeVijf from '@/components/methodes/MethodeVijf'
+import MethodeZes from '@/components/methodes/MethodeZes'
 import ViewMethodeVier from '@/components/ViewMethodeVier' 
 import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
@@ -96,7 +97,11 @@ let router = new Router({
       name: 'methode-vijf',
       component: MethodeVijf,
     },
-
+    {
+      path: '/methode-6',
+      name: 'methode-zes',
+      component: MethodeZes, 
+    },
     {
       path: '/login',
       name: 'login',

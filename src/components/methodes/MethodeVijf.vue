@@ -54,6 +54,28 @@ import VolkskrantGoogle from '../data/VolkskrantGoogle'
 export default{
           data(){
               return{
+                flowers: [
+                {
+                  name: 'Roses',
+                  amount: 25,
+                  color: '#cc2936'
+                },
+                {
+                  name: 'Tulips',
+                  amount: 40,
+                  color: '#f2c640'
+                },
+                {
+                  name: 'Daisies',
+                  amount: 15,
+                  color: '#2a93d4'
+                },
+                {
+                  name: 'Narcissuses',
+                  amount: 9,
+                  color: '#F7AD0A'
+                }
+              ],
                     Nos: NosGoogle,
                     Nu: NuGoogle,
                     Rtl: RtlGoogle,
@@ -87,6 +109,7 @@ export default{
       })
       .attr('height', rectHeight - 5)
       .attr('fill', 'lightblue')
+
     let xScale = d3.scaleLinear()
       .domain([0, d3.max(dataset)])
       .range([0,250])
