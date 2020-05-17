@@ -1,13 +1,11 @@
 import Vue from 'vue'
 import router from './router'
 import App from './App.vue'
-import jquery from 'vue-jquery'
 import vuetify from './plugins/vuetify';
 import './registerServiceWorker'
 import firebase from 'firebase'
 import './components/firebaseInit'
-import Codebird from '../public/codebird'
-
+import Twitter from 'twitter-lite';
  
 Vue.config.productionTip = false
 
@@ -17,26 +15,25 @@ firebase.auth().onAuthStateChanged(user => {
 
     app = new Vue({
       vuetify,
-      jquery,
       router,
       render: h => h(App)
     }).$mount('#app')
   }
 })
- 
 
- 
 
-var cb = new Codebird
-cb.setConsumerKey("p9dYauvFpVsXhC4KeWKk7Vrc8", "039L9wKEeTNxlsoFoXKruwVEgmtaGz1xQPVyDlMGQyNnVAWl1T")
+const client = new Twitter({
+  subdomain: "api", // "api" is the default (change for other subdomains)
+  version: "1.1", // version "1.1" is the default (change for other subdomains)
+  consumer_key: "p9dYauvFpVsXhC4KeWKk7Vrc8",
+  consumer_secret: "039L9wKEeTNxlsoFoXKruwVEgmtaGz1xQPVyDlMGQyNnVAWl1T",
+  access_token_key: "239511634-gxvQuYFw8XBqi0ppygYr9fjQZSt9eepe961CErEm",
+  access_token_secret: "A3OGpYBIt13jRPy8pgEHrKNFX8NnBz8PwhZIbn4MmH4oO",
+});
 
-let term  = 'Corona';
-
-cb.__call(
-  "search_tweets",
-  "q=" + term,
-  function(reply) {
-    console.log(reply)
-  },
-  true // this parameter required
-);
+client
+  .get("account/verify_credentials")
+  .then(results => {
+    console.log("results", results);
+  })
+  .catch(console.error);
