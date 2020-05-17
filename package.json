@@ -17,7 +17,9 @@
     "register-service-worker": "^1.7.1",
     "survey-vue": "^1.7.4",
     "twit": "^2.2.11",
+    "twitter-lite": "^0.12.0",
     "vue": "^2.6.11",
+    "vue-jquery": "^1.0.6",
     "vue-router": "^3.1.6",
     "vuetify": "^2.2.11"
   },
