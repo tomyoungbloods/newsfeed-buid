@@ -11,6 +11,8 @@ import MethodeZeven from '@/components/methodes/MethodeZeven'
 import MethodeAcht from '@/components/methodes/MethodeAcht'
 import MethodeNegen from '@/components/methodes/MethodeNegen'
 import MethodeTien from '@/components/methodes/MethodeTien'
+import MethodeElf from '@/components/methodes/MethodeElf'
+import MethodeTwaalf from '@/components/methodes/MethodeTwaalf/MethodeTwaalf'
 import ViewMethodeVier from '@/components/ViewMethodeVier' 
 import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
@@ -125,6 +127,16 @@ let router = new Router({
       path: '/methode-10',
       name: 'methode-tien',
       component: MethodeTien, 
+    },
+    {
+      path: '/methode-11',
+      name: 'methode-elf',
+      component: MethodeElf, 
+    },
+    {
+      path: '/methode-12',
+      name: 'methode-12',
+      component: MethodeTwaalf, 
     },
     {
       path: '/login',
