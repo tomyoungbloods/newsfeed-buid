@@ -1,0 +1,161 @@
+{
+    "search_metadata": {
+      "id": "5ec2b706d4b16b74e4187b59",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/890e34f5af51c24d/5ec2b706d4b16b74e4187b59.json",
+      "created_at": "2020-05-18 16:25:42 UTC",
+      "processed_at": "2020-05-18 16:25:42 UTC",
+      "google_url": "https://www.google.nl/search?q=Nu.nl+Corona+site%3Atwitter.com&oq=Nu.nl+Corona+site%3Atwitter.com&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/890e34f5af51c24d/5ec2b706d4b16b74e4187b59.html",
+      "total_time_taken": 13.65
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Nu.nl",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 302000,
+      "time_taken_displayed": 1.21,
+      "query_displayed": "Nu.nl Corona site:twitter.com"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "NU.nl on Twitter: \"Leerkrachten merken: 'corona-onderwijs ...",
+        "link": "https://twitter.com/NUnl/status/1261312404299960320",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "3 dagen geleden",
+        "snippet": "NU.nlVerified account. @NUnl. NU.nl | laatste nieuws | binnenland | buitenland | politiek | economie | beurskoersen | tech | sport l cultuur | weer ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6QrWJiznc5MJ:https://twitter.com/NUnl/status/1261312404299960320+&cd=1&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "NU.nl on Twitter: \"Ollongren: Rusland verspreidt in Nederland ...",
+        "link": "https://twitter.com/NUnl/status/1260799763773038599",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "5 dagen geleden",
+        "snippet": "Replying to @NUnl. Wat is desinformatie over #Corona ? Het is een onbekend virus Wat weet @KajsaOllongren hiervan? Kan zij even zeggen ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6_AEW0XnQcAJ:https://twitter.com/NUnl/status/1260799763773038599+&cd=2&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "NU.nl on Twitter: \"RIVM meldt kleinste aantal ...",
+        "link": "https://twitter.com/NUnl/status/1258004794532335616",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "6 mei 2020",
+        "snippet": "Embed Tweet. RIVM meldt kleinste aantal ziekenhuisopnames (27) door corona sinds 15 maart:https://bit.ly/3cd11ii ... Replying to @NUnl.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7wWMElYRlWwJ:https://twitter.com/NUnl/status/1258004794532335616+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "NU.nl on Twitter: \"Aantal dagelijkse doden door coronavirus in ...",
+        "link": "https://twitter.com/NUnl/status/1257552809756680192",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "4 mei 2020",
+        "snippet": "Replying to @NUnl. Een dagelijkse stijging/daling is geen nieuws, je bent gewoon variatie aan het delen. Dit wekt de indruk dat het een effect ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_9-b3nF8FmAJ:https://twitter.com/NUnl/status/1257552809756680192+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "NU.nl on Twitter: \"2 procent van bevolking Moskou besmet ...",
+        "link": "https://twitter.com/NUnl/status/1256522491859787777",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "2 mei 2020",
+        "snippet": "Replying to @NUnl. \"Kwart miljoen Moskovieten besmet met coronavirus\" En: \"In totaal zijn 124.054 personen in het land positief getest op het ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z1ReyDd7LjAJ:https://twitter.com/NUnl/status/1256522491859787777+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "NU.nl on Twitter: \"Moeten we ons zorgen maken over het ...",
+        "link": "https://twitter.com/nunl/status/1236229413760532480",
+        "displayed_link": "twitter.com › nunl › status",
+        "thumbnail": null,
+        "date": "7 mrt. 2020",
+        "snippet": "Replying to @NUnl. Flikkker toch eens op met dit soort berichtgeving! Corona, stikstof, stijgende zeespiegel.... Het doemdenken moet stoppen!",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qN1S4t6poKwJ:https://twitter.com/nunl/status/1236229413760532480+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "NU.nl (@NUnl) | Twitter",
+        "link": "https://twitter.com/nunl",
+        "displayed_link": "twitter.com › nunl",
+        "thumbnail": null,
+        "snippet": "NU.nl | laatste nieuws | binnenland | buitenland | politiek | economie ... Video | Demonstraties tegen coronamaatregelen in verschillende Europese ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B7igjcZh7bAJ:https://twitter.com/nunl+&cd=7&hl=nl&ct=clnk&gl=nl",
+        "related_pages_link": "https://www.google.nl/search?hl=nl&gl=nl&q=related:https://twitter.com/nunl&tbo=1&sa=X&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQHzAGegQIBxAH"
+      },
+      {
+        "position": 8,
+        "title": "NU.nl on Twitter: \"Inspectie waarschuwt huisarts en apotheker ...",
+        "link": "https://twitter.com/NUnl/status/1247897000994955265",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "8 apr. 2020",
+        "snippet": "Replying to @NUnl. En dan komt de inspectie om de hoek om deze arts die zijn patiënten goed heeft geholpen af te straffen. Want oh nee we ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wNq0gVDAz7YJ:https://twitter.com/NUnl/status/1247897000994955265+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "NU.nl on Twitter: \"'WHO waarschuwde wereld op tijd voor ...",
+        "link": "https://twitter.com/NUnl/status/1256312864123518976",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "1 mei 2020",
+        "snippet": "Replying to @NUnl. Lol, is de verdedig WHO subsidie weer binnen gekomen. WHO zei nog zo stellig, ahh dat gaat niet van mens op mens en ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_VedWPjk-MIJ:https://twitter.com/NUnl/status/1256312864123518976+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 10,
+        "title": "NU.nl on Twitter: \"RIVM: Negen zorgmedewerkers overleden ...",
+        "link": "https://twitter.com/NUnl/status/1255830942003933185",
+        "displayed_link": "twitter.com › NUnl › status",
+        "thumbnail": null,
+        "date": "30 apr. 2020",
+        "snippet": "Replying to @NUnl. Tragisch. Ook tragisch: Iedere dag gaan er in Nederland 128 mensen dood aan kanker. (Bron: CBS) Ook tragisch: Per dag ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8E9xcot9rZ8J:https://twitter.com/NUnl/status/1255830942003933185+&cd=10&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=10&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=10&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=20&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=30&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=40&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=50&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=60&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=70&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=80&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=Nu.nl+Corona+site:twitter.com&hl=nl&gl=nl&ei=ELfCXoe6J8zr-Qbf4JPYAQ&start=90&sa=N&ved=2ahUKEwiHgufu6b3pAhXMdd4KHV_wBBsQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Nu.nl+Corona+site%3Atwitter.com&start=90"
+      }
+    }
+  }

@@ -1,0 +1,174 @@
+{
+    "search_metadata": {
+      "id": "5ec2aa57cd558c351ba84257",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/92067d0a43389767/5ec2aa57cd558c351ba84257.json",
+      "created_at": "2020-05-18 15:31:35 UTC",
+      "processed_at": "2020-05-18 15:31:35 UTC",
+      "google_url": "https://www.google.nl/search?q=NU.NL+Corona+site%3Anu.nl&oq=NU.NL+Corona+site%3Anu.nl&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/92067d0a43389767/5ec2aa57cd558c351ba84257.html",
+      "total_time_taken": 0.83
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "NU.NL",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1100000,
+      "time_taken_displayed": 0.41,
+      "query_displayed": "NU.NL"
+    },
+    "top_stories_link": "https://www.google.nl/search?gl=nl&hl=nl&q=NU.NL+Corona+site:nu.nl&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQt8YBKAF6BAgKEA4",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&tbm=nws",
+    "top_stories": [
+      {
+        "title": "Spanje wil eind juni grenzen openen en buitenlandse toeristen verwelkomen",
+        "link": "https://www.nu.nl/coronavirus/6052061/spanje-wil-eind-juni-grenzen-openen-en-buitenlandse-toeristen-verwelkomen.html",
+        "source": "NU.nl",
+        "date": "2 uur geleden",
+        "thumbnail": "data:image/jpeg;base64,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"
+      },
+      {
+        "title": "RIVM meldt opnieuw zeer klein aantal doden (14) en opnames (27)",
+        "link": "https://www.nu.nl/coronavirus/6052037/rivm-meldt-opnieuw-zeer-klein-aantal-doden-14-en-opnames-27.html",
+        "source": "NU.nl",
+        "date": "3 uur geleden",
+        "thumbnail": "data:image/jpeg;base64,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"
+      },
+      {
+        "title": "Bekijk de coronacijfers van 18 mei in vijf grafieken",
+        "link": "https://www.nu.nl/uitleg-over-het-coronavirus/6052106/bekijk-de-coronacijfers-van-18-mei-in-vijf-grafieken.html",
+        "source": "NU.nl",
+        "date": "35 min. geleden",
+        "thumbnail": "data:image/png;base64,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"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Kleinste aantal coronadoden (10) in ruim twee ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6051832/kleinste-aantal-coronadoden-10-in-ruim-twee-maanden-tijd.html",
+        "displayed_link": "www.nu.nl › coronavirus › kleinste-aantal-coronadode...",
+        "thumbnail": null,
+        "date": "1 dag geleden",
+        "snippet": "... Milieu (RIVM) meldt zondag in de dagelijkse update dat sinds zaterdag tien sterfgevallen zijn doorgegeven als gevolg van het coronavirus.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GyDf4MB04KYJ:https://www.nu.nl/coronavirus/6051832/kleinste-aantal-coronadoden-10-in-ruim-twee-maanden-tijd.html+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "RIVM meldt opnieuw zeer klein aantal doden (14) en ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6052037/rivm-meldt-opnieuw-zeer-klein-aantal-doden-14-en-opnames-27.html",
+        "displayed_link": "www.nu.nl › coronavirus › rivm-meldt-opnieuw-zeer-k...",
+        "thumbnail": null,
+        "date": "4 uur geleden",
+        "snippet": "In totaal zijn nu 5.694 coronapatiënten in Nederland overleden en zijn 11.579 Nederlanders opgenomen (geweest) in ziekenhuizen. Daarnaast ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CMiYdiSklnQJ:https://www.nu.nl/coronavirus/6052037/rivm-meldt-opnieuw-zeer-klein-aantal-doden-14-en-opnames-27.html+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "'Heel Wuhan' wordt getest op corona, zaterdag bijna ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6051877/heel-wuhan-wordt-getest-op-corona-zaterdag-bijna-kwart-miljoen-mensen.html",
+        "displayed_link": "www.nu.nl › coronavirus › heel-wuhan-wordt-getest-o...",
+        "thumbnail": null,
+        "date": "1 dag geleden",
+        "snippet": "De Chinese stad Wuhan komt op stoom wat betreft het voornemen om alle elf miljoen inwoners van de stad te testen op het coronavirus.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z3-R5ukd5-AJ:https://www.nu.nl/coronavirus/6051877/heel-wuhan-wordt-getest-op-corona-zaterdag-bijna-kwart-miljoen-mensen.html+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "Coronavirus | NU - Het laatste nieuws het eerst op NU.nl",
+        "link": "https://www.nu.nl/tag/Coronavirus",
+        "displayed_link": "www.nu.nl › tag › Coronavirus",
+        "thumbnail": null,
+        "snippet": "NU.nl heeft je steun nodig. Je gebruikt een adblocker. Wij kunnen onze artikelen alleen gratis toegankelijk voor je maken dankzij advertenties. Wil je jouw ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U8E3s8Bq_fMJ:https://www.nu.nl/tag/Coronavirus+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "Voor het eerst sinds 12 april (lichte) stijging aantal ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6051889/voor-het-eerst-sinds-12-april-lichte-stijging-aantal-coronapatienten-op-ic.html",
+        "displayed_link": "www.nu.nl › coronavirus › voor-het-eerst-sinds-12-apri...",
+        "thumbnail": null,
+        "date": "1 dag geleden",
+        "snippet": "De laatste toename van het aantal coronapatiënten op de ic werd gemeld op 11 april toen het aantal steeg van 1.384 naar 1.391. Sindsdien nam ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:H7vreuo0LYgJ:https://www.nu.nl/coronavirus/6051889/voor-het-eerst-sinds-12-april-lichte-stijging-aantal-coronapatienten-op-ic.html+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "Corona-update | NU - Het laatste nieuws het eerst op NU.nl",
+        "link": "https://www.nu.nl/tag/Corona-update",
+        "displayed_link": "www.nu.nl › tag › Corona-update",
+        "thumbnail": null,
+        "snippet": "Het laatste Corona-update nieuws het eerst op NU.nl.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BE4ZQlJrorIJ:https://www.nu.nl/tag/Corona-update+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "Aantal coronapatiënten op ic (323) weer afgenomen ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6052087/aantal-coronapatienten-op-ic-323-weer-afgenomen-na-lichte-stijging.html",
+        "displayed_link": "www.nu.nl › coronavirus › aantal-coronapatienten-op-i...",
+        "thumbnail": null,
+        "date": "1 uur geleden",
+        "snippet": "Het aantal Nederlandse coronapatiënten op de intensive care is na een lichte stijging gedaald tot 323. Dat zijn er 26 minder dan zondag, meldt ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:faPMObW906QJ:https://www.nu.nl/coronavirus/6052087/aantal-coronapatienten-op-ic-323-weer-afgenomen-na-lichte-stijging.html+&cd=10&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "Conclusie na steekproef: zo'n kwart miljoen ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6048660/conclusie-na-steekproef-zon-kwart-miljoen-moskovieten-besmet-met-corona.html",
+        "displayed_link": "www.nu.nl › coronavirus › conclusie-na-steekproef-zo...",
+        "thumbnail": null,
+        "date": "2 mei 2020",
+        "snippet": "Zo'n 2 procent van de bevolking van Moskou is besmet met het coronavirus, zo maakte burgemeester Sergei Sobyanin zaterdag bekend ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LkjAk_hOXJ0J:https://www.nu.nl/coronavirus/6048660/conclusie-na-steekproef-zon-kwart-miljoen-moskovieten-besmet-met-corona.html+&cd=11&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "Bang dat je huisdier ook corona krijgt? Hier moet je op ... - NU.nl",
+        "link": "https://www.nu.nl/coronavirus/6051841/bang-dat-je-huisdier-ook-corona-krijgt-hier-moet-je-op-letten.html",
+        "displayed_link": "www.nu.nl › coronavirus › bang-dat-je-huisdier-ook-c...",
+        "thumbnail": null,
+        "date": "1 dag geleden",
+        "snippet": "In Nederland hebben enkele katten en een hond het coronavirus opgelopen, plus een aantal nertsen op een nertsenfokkerij. Is het virus net ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:crwv85JOSRsJ:https://www.nu.nl/coronavirus/6051841/bang-dat-je-huisdier-ook-corona-krijgt-hier-moet-je-op-letten.html+&cd=12&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=10&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=10&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=20&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=30&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=40&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=50&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=60&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=70&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=80&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=NU.NL+Corona+site:nu.nl&gl=nl&hl=nl&ei=V6rCXuHHOY7l-gTlla3IDw&start=90&sa=N&ved=2ahUKEwihz_Hd3b3pAhWOsp4KHeVKC_kQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NU.NL+Corona+site%3Anu.nl&start=90"
+      }
+    }
+  }

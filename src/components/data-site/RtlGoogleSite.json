@@ -1,0 +1,174 @@
+{
+    "search_metadata": {
+      "id": "5ec2aadc002fca356f42a7a1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/747c58f537dfc758/5ec2aadc002fca356f42a7a1.json",
+      "created_at": "2020-05-18 15:33:48 UTC",
+      "processed_at": "2020-05-18 15:33:48 UTC",
+      "google_url": "https://www.google.nl/search?q=RTL+Corona+site%3Artl.nl&oq=RTL+Corona+site%3Artl.nl&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/747c58f537dfc758/5ec2aadc002fca356f42a7a1.html",
+      "total_time_taken": 2.89
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "RTL",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 5820,
+      "time_taken_displayed": 0.28,
+      "query_displayed": "RTL"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "RTL Nieuws",
+        "link": "https://www.rtl.nl/actueel/rtlnieuws/",
+        "displayed_link": "www.rtl.nl › actueel › rtlnieuws",
+        "thumbnail": null,
+        "snippet": "Zo bescherm je je huisdier tegen het coronavirus. Waarom houden we niet overal in Europa dezelfde afstand? Corona-update, stel je vraag ...",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Corona in cijfers",
+              "link": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5069661/corona-cijfers-besmettingen-doden-intensive-care-rivm-hoe-veel"
+            },
+            {
+              "title": "RTL Boulevard",
+              "link": "https://www.rtlnieuws.nl/boulevard"
+            },
+            {
+              "title": "Overleeft corona in zwemwater ...",
+              "link": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5104846/corona-update-water-stilstaand-zwemmen-corona"
+            },
+            {
+              "title": "Net binnen",
+              "link": "https://www.rtlnieuws.nl/net-binnen"
+            }
+          ]
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9fES_w6wok0J:https://www.rtl.nl/actueel/rtlnieuws/+&cd=1&hl=nl&ct=clnk&gl=nl",
+        "related_pages_link": "https://www.google.nl/search?gl=nl&hl=nl&q=related:https://www.rtl.nl/actueel/rtlnieuws/&tbo=1&sa=X&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQHzAAegQIAxAH"
+      },
+      {
+        "position": 2,
+        "title": "RTL Corona Update: Het laatste nieuws - RTL",
+        "link": "https://www.rtl.nl/over/rtl-corona-update-het-laatste-nieuws/WbuezSsAAOoLO5ue",
+        "displayed_link": "www.rtl.nl › over › rtl-corona-update-het-laatste-nieuws",
+        "thumbnail": null,
+        "snippet": "RTL Corona Update: Het laatste nieuws. Actuele programmering · Heel Nederland zendtijd bij RTL. persbericht. Heel Nederland zendtijd bij RTL.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BbJT8WlObLYJ:https://www.rtl.nl/over/rtl-corona-update-het-laatste-nieuws/WbuezSsAAOoLO5ue+&cd=2&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "Corona Update - RTL",
+        "link": "https://www.rtl.nl/over/corona-update/XnisyxEAAB8ApSB7",
+        "displayed_link": "www.rtl.nl › over › corona-update",
+        "thumbnail": null,
+        "snippet": "Welkom! De ontwikkelingen rondom het coronavirus hebben impact op heel Nederland en daarmee ook op de programmering en activiteiten van RTL.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:frzOwhkx1HoJ:https://www.rtl.nl/over/corona-update/XnisyxEAAB8ApSB7+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "RTL Z Nieuws - Corona: de klap die Duitsland niet kan ...",
+        "link": "https://www.rtl.nl/video/ca21f436-fd4a-4744-83c0-dc182d28c2c6/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "snippet": "Het gaat niet lekker met de economie van onze buren. Een Europese uitbraak van het coronavirus kunnen de Duitsers dus echt niet gebruiken. do 2 jan 2020.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9T7Y82UGrF0J:https://www.rtl.nl/video/ca21f436-fd4a-4744-83c0-dc182d28c2c6/+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "RTL Z Nieuws - Is renteverlaging 'vaccin' tegen economische ...",
+        "link": "https://www.rtl.nl/video/01dda45d-e2ad-4e63-8849-4b80837d49e4/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "snippet": "Is renteverlaging 'vaccin' tegen economische schade corona? De Fed verlaagt de rente, vanwege corona. Is dat goed nieuws voor beleggers? do 2 jan 2020.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:b404LOeGDbIJ:https://www.rtl.nl/video/01dda45d-e2ad-4e63-8849-4b80837d49e4/+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "RTL Z Nieuws - Corona betekent big business voor ...",
+        "link": "https://www.rtl.nl/video/c2bac5e5-8e21-4f64-b4db-954653e269e0/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "date": "29 apr. 2020",
+        "snippet": "Corona betekent big business voor Boerschappen. In de anderhalve meter- economie zijn er ook bedrijven die het opeens heel goed doen.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:chTPmv-1_2AJ:https://www.rtl.nl/video/c2bac5e5-8e21-4f64-b4db-954653e269e0/+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "RTL Z Nieuws - Wordt de klimaatcrisis erger door corona?",
+        "link": "https://www.rtl.nl/video/7df1ae8b-7fa1-4e28-b5dd-c50522082d92/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "snippet": "Door de coronacrisis wordt er flink minder CO2 uitgestoten. Goed nieuws voor het klimaat dus. Maar dat tij kan zomaar gaan keren: want hoe belangrijk is ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dSpMOThbN68J:https://www.rtl.nl/video/7df1ae8b-7fa1-4e28-b5dd-c50522082d92/+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "RTL Z Nieuws - Zo zorgt corona voor meer ongelijkheid in ...",
+        "link": "https://www.rtl.nl/video/cf5074c4-3665-40b0-963e-36831e736ada/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "snippet": "De ene lockdown is de andere niet: economen verwachten meer schade bij strengere maatregelen, zoals in Italië en Spanje. Grote kans dat dat de al bestaande ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3NWOZ83kN3QJ:https://www.rtl.nl/video/cf5074c4-3665-40b0-963e-36831e736ada/+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "RTL Z Nieuws - Hoe Trump China wil laten betalen voor corona",
+        "link": "https://www.rtl.nl/video/3635c9c1-c3c7-41eb-ad44-2931e0ad20cd/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "snippet": "De VS vindt dat China de kosten van de coronacrisis moet betalen. Daarvoor heeft Trump een bijzondere troef in handen, maar daarmee kan hij zichzelf ook in ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KIkf6rlOrQAJ:https://www.rtl.nl/video/3635c9c1-c3c7-41eb-ad44-2931e0ad20cd/+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 10,
+        "title": "RTL Z Nieuws - Zo verstoort corona de voedselvoorziening",
+        "link": "https://www.rtl.nl/video/249f1677-4d7e-45de-813b-da1e415abd85/",
+        "displayed_link": "www.rtl.nl › video",
+        "thumbnail": null,
+        "date": "28 apr. 2020",
+        "snippet": "De coronacrisis geeft de wereldwijde voedselvoorziening een flinke opdonder. Boeren komen in de problemen, er ontstaan tekorten of juist ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_VcCLv9hR48J:https://www.rtl.nl/video/249f1677-4d7e-45de-813b-da1e415abd85/+&cd=10&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=10&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=10&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=20&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=30&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=40&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=50&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=60&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=70&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=80&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=RTL+Corona+site:rtl.nl&gl=nl&hl=nl&ei=3qrCXs-EEYTS-gTkhIbQDQ&start=90&sa=N&ved=2ahUKEwjP6_id3r3pAhUEqZ4KHWSCAdoQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Artl.nl&start=90"
+      }
+    }
+  }

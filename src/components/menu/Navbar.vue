@@ -116,6 +116,8 @@ export default {
                 { icon: 'mdi-chart-scatter-plot' ,title: 'Methode 4 Resultaten', link: '/methode-4-results', key: 'methode4' },
                 { icon: 'mdi-magnify' ,title: 'Methode 5 Resultaten', link: '/methode-5', key: 'methode5' },
                 { icon: 'mdi-selection-search' ,title: 'Methode 6 Resultaten', link: '/methode-6', key: 'methode6' },
+                { icon: 'mdi-magnify' ,title: 'Methode 7 Resultaten', link: '/methode-7', key: 'methode7' },
+                { icon: 'mdi-selection-search' ,title: 'Methode 8 Resultaten', link: '/methode-8', key: 'methode8' },
             ],
         }
     },

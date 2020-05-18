@@ -1,7 +1,7 @@
 <template>
   <div>
     <h5>Zoekresultaten Google</h5>
-    <p>Wie publiciteert er het meeste over corona?</p>
+    <p>Welk gedeelte van de resultaten komt door de bron zelf?</p>
     <svg width="300" height="400">
       <g
         class="flower"
@@ -21,7 +21,7 @@
         <input type="number" v-model="flower.amount" step="10000000" min="10000000">
       </div>
     </div>
-  </div>
+  </div> 
 </template>
 
 <script>
@@ -42,22 +42,22 @@ export default {
       flowers: [
 		  {
           name: NosGoogleSite.search_parameters.q,
-          amount: NosGoogleSite.search_information.total_results,
+          amount: 0.011,
           color: '#e61e14'
           },
           {
           name: NuGoogleSite.search_parameters.q,
-          amount: NuGoogleSite.search_information.total_results,
+          amount: 0.460,
           color: '#1f2544'
           },
           {
           name: RtlGoogleSite.search_parameters.q,
-          amount: RtlGoogleSite.search_information.total_results,
+          amount: 0.010,
           color: '#35a7d7'
           },
           {
           name: VolkskrantGoogle.search_parameters.q,
-          amount: VolkskrantGoogle.search_information.total_results,
+          amount: 20.95,
           color: '#008bc3'
           },
       ]

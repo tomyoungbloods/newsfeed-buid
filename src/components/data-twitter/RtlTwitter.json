@@ -1,0 +1,161 @@
+{
+    "search_metadata": {
+      "id": "5ec2b60bab3f583935cbdde0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/aa125d0841968c01/5ec2b60bab3f583935cbdde0.json",
+      "created_at": "2020-05-18 16:21:31 UTC",
+      "processed_at": "2020-05-18 16:21:32 UTC",
+      "google_url": "https://www.google.nl/search?q=RTL+Corona+site%3Atwitter.com&oq=RTL+Corona+site%3Atwitter.com&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/aa125d0841968c01/5ec2b60bab3f583935cbdde0.html",
+      "total_time_taken": 4.56
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "RTL",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 33200,
+      "time_taken_displayed": 0.36,
+      "query_displayed": "RTL Corona site:twitter.com"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "RTL Z on Twitter: \"Ahold profiteert fors van corona: winst stijgt ...",
+        "link": "https://twitter.com/RTLZ/status/1258310142757650434",
+        "displayed_link": "twitter.com › RTLZ › status",
+        "thumbnail": null,
+        "date": "7 mei 2020",
+        "snippet": "... your follow request to @RTLZ. More. Copy link to Tweet; Embed Tweet. Ahold profiteert fors van corona: winst stijgt bijna met de helft ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cPe-PCYxqioJ:https://twitter.com/RTLZ/status/1258310142757650434+&cd=1&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "RTL Z on Twitter: \"Overheid maakt nieuwe corona-app, eind ...",
+        "link": "https://twitter.com/RTLZ/status/1258674883074174977",
+        "displayed_link": "twitter.com › RTLZ › status",
+        "thumbnail": null,
+        "date": "8 mei 2020",
+        "snippet": "RTL Z biedt nieuws en inspiratie voor ondernemende mensen. @RTLZbeurs, Business, Life, Tech en Opinie. KPN kanaal 11 en Ziggo kanaal ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7CAen12J9OYJ:https://twitter.com/RTLZ/status/1258674883074174977+&cd=2&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "RTL Z on Twitter: \"Zuurstofmeters niet aan te slepen door ...",
+        "link": "https://twitter.com/RTLZ/status/1256603319788810240",
+        "displayed_link": "twitter.com › RTLZ › status",
+        "thumbnail": null,
+        "date": "2 mei 2020",
+        "snippet": "RTL Z biedt nieuws en inspiratie voor ondernemende mensen. @RTLZbeurs ... Zuurstofmeters niet aan te slepen door corona: 'Het loopt storm' ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:z39wQFHF2eoJ:https://twitter.com/RTLZ/status/1256603319788810240+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "RTL Z (@RTLZ) | Twitter",
+        "link": "https://twitter.com/rtlz",
+        "displayed_link": "twitter.com › rtlz",
+        "thumbnail": null,
+        "snippet": "In deze coronatijd is de woningcrisis zo mogelijk nog groter, maar ook nu blijft het kabinet doormodderen op de woningmarkt, schrijft columnist Cody ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KsCf4xZnqTwJ:https://twitter.com/rtlz+&cd=4&hl=nl&ct=clnk&gl=nl",
+        "related_pages_link": "https://www.google.nl/search?gl=nl&hl=nl&q=related:https://twitter.com/rtlz&tbo=1&sa=X&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQHzADegQIAxAH"
+      },
+      {
+        "position": 5,
+        "title": "RTL Z on Twitter: \"Ebola, mazelen en nu corona: Congo ...",
+        "link": "https://twitter.com/RTLZ/status/1256238058183307268",
+        "displayed_link": "twitter.com › RTLZ › status",
+        "thumbnail": null,
+        "date": "1 mei 2020",
+        "snippet": "RTL Z biedt nieuws en inspiratie voor ondernemende mensen. @RTLZbeurs, Business, Life, Tech en Opinie. KPN kanaal 11 en Ziggo kanaal ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jrE1lXcP7JwJ:https://twitter.com/RTLZ/status/1256238058183307268+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "RTL Z on Twitter: \"Frankrijk: onacceptabel als VS voorrang ...",
+        "link": "https://twitter.com/RTLZ/status/1260868881956167681/photo/1",
+        "displayed_link": "twitter.com › RTLZ › status › photo",
+        "thumbnail": null,
+        "date": "4 dagen geleden",
+        "snippet": "... your follow request to @RTLZ. More. Copy link to Tweet; Embed Tweet. Frankrijk: onacceptabel als VS voorrang krijgt op corona-vaccin ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OYSd1KeO_hYJ:https://twitter.com/RTLZ/status/1260868881956167681/photo/1+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "RTL Z on Twitter: \"Corona-update: Nog meer ellende voor ...",
+        "link": "https://twitter.com/rtlz/status/1252217045296578562",
+        "displayed_link": "twitter.com › rtlz › status",
+        "thumbnail": null,
+        "date": "20 apr. 2020",
+        "snippet": "Corona-update: Nog meer ellende voor Boeing | Er wordt veel minder geld uit de muur getrokken | Verwachtingen eurozone verder naar ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FOPuXopSVhwJ:https://twitter.com/rtlz/status/1252217045296578562+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "RTL Z on Twitter: \"Corona-apps voldoen niet aan eisen ...",
+        "link": "https://twitter.com/RTLZ/status/1252576432548728832",
+        "displayed_link": "twitter.com › RTLZ › status",
+        "thumbnail": null,
+        "date": "21 apr. 2020",
+        "snippet": "RTL Z biedt nieuws en inspiratie voor ondernemende mensen. @RTLZbeurs, Business, Life, Tech en Opinie. KPN kanaal 11 en Ziggo kanaal ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1kSCMO7z2VkJ:https://twitter.com/RTLZ/status/1252576432548728832+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "RTL Z on Twitter: \"Komende tijd minder loonsverhoging door ...",
+        "link": "https://twitter.com/RTLZ/status/1256237076468707330",
+        "displayed_link": "twitter.com › RTLZ › status",
+        "thumbnail": null,
+        "date": "1 mei 2020",
+        "snippet": "RTL Z biedt nieuws en inspiratie voor ondernemende mensen. ... Komende tijd minder loonsverhoging door corona: '3 procent halen we niet' ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MTJaiILZGn0J:https://twitter.com/RTLZ/status/1256237076468707330+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 10,
+        "title": "Daniël Verlaan on Twitter: \"ik: volg de corona-app kritisch op ...",
+        "link": "https://twitter.com/danielverlaan/status/1258677765076856839",
+        "displayed_link": "twitter.com › danielverlaan › status",
+        "thumbnail": null,
+        "date": "8 mei 2020",
+        "snippet": "ik: volg de corona-app kritisch op RTL Nieuws en in Twitter-draadjes, pak app-bouwers en de overheid op hun bullshit, laat experts aan het ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:G8pl9Xp3mG4J:https://twitter.com/danielverlaan/status/1258677765076856839+&cd=10&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=10&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=10&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=20&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=30&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=40&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=50&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=60&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=70&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=80&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=RTL+Corona+site:twitter.com&gl=nl&hl=nl&ei=DbbCXtqVN5q70PEPxu2yiA0&start=90&sa=N&ved=2ahUKEwia0Lbz6L3pAhWaHTQIHca2DNEQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=RTL+Corona+site%3Atwitter.com&start=90"
+      }
+    }
+  }

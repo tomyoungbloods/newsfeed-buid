@@ -1,0 +1,161 @@
+{
+    "search_metadata": {
+      "id": "5ec2b6ccab3f5839c4dd124d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/60cea2aa479dc62e/5ec2b6ccab3f5839c4dd124d.json",
+      "created_at": "2020-05-18 16:24:44 UTC",
+      "processed_at": "2020-05-18 16:24:44 UTC",
+      "google_url": "https://www.google.nl/search?q=Volkskrant+Corona+site%3Atwitter.com&oq=Volkskrant+Corona+site%3Atwitter.com&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/60cea2aa479dc62e/5ec2b6ccab3f5839c4dd124d.html",
+      "total_time_taken": 9.27
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Volkskrant",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 33800,
+      "time_taken_displayed": 0.31,
+      "query_displayed": "Volkskrant Corona site:twitter.com"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "de Volkskrant on Twitter: \"Corona moet uitwoeden, heet het al ...",
+        "link": "https://twitter.com/volkskrant/status/1258350867591331840",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "7 mei 2020",
+        "snippet": "Onafhankelijk, betrouwbaar, toegankelijk: volg de Volkskrant hier voor ... Corona moet uitwoeden, heet het al snel: een virusziekte kun je niet ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:c-v8km9VM58J:https://twitter.com/volkskrant/status/1258350867591331840+&cd=1&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "de Volkskrant on Twitter: \"Nergens in het door corona ...",
+        "link": "https://twitter.com/volkskrant/status/1254653893310644224",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "26 apr. 2020",
+        "snippet": "Nergens in het door corona getroffen Italië is het zo erg als in Bergamo, toch gaat het daar langzaam de goede kant op. 'Het is de truc zelf niet ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pCW29QiNR-IJ:https://twitter.com/volkskrant/status/1254653893310644224+&cd=2&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "de Volkskrant on Twitter: \"De coronacrisis maakt het leven ...",
+        "link": "https://twitter.com/volkskrant/status/1257706369689415680",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "5 mei 2020",
+        "snippet": "... het leven voor illegale migranten in Istanbul nog onzekerder dan het al was. Inkomsten vallen weg en bij de preventie van corona val je voor ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vBwwFakvwScJ:https://twitter.com/volkskrant/status/1257706369689415680+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "de Volkskrant on Twitter: \"Huisartsen hebben sinds de ...",
+        "link": "https://twitter.com/volkskrant/status/1252075498856869890",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "19 apr. 2020",
+        "snippet": "Huisartsen hebben sinds de uitbraak van het corona-virus in Nederland 360 duizend mensen minder naar een medisch specialist verwezen ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YxJqivO-4OoJ:https://twitter.com/volkskrant/status/1252075498856869890+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "de Volkskrant (@volkskrant) | Twitter",
+        "link": "https://twitter.com/volkskrant",
+        "displayed_link": "twitter.com › volkskrant",
+        "thumbnail": null,
+        "snippet": "Onafhankelijk, betrouwbaar, toegankelijk: volg de Volkskrant hier voor actualiteit, opinie, cultuur en ... Lees het laatste nieuws rondom het coronavirus in ons ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2XUjFniPl0UJ:https://twitter.com/volkskrant+&cd=5&hl=nl&ct=clnk&gl=nl",
+        "related_pages_link": "https://www.google.nl/search?hl=nl&gl=nl&q=related:https://twitter.com/volkskrant&tbo=1&sa=X&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQHzAEegQIBRAH"
+      },
+      {
+        "position": 6,
+        "title": "de Volkskrant on Twitter: \"Arts in opleiding Coen Feron (28 ...",
+        "link": "https://twitter.com/volkskrant/status/1253991518509170688",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "25 apr. 2020",
+        "snippet": "Arts in opleiding Coen Feron (28) vocht voor het leven van coronapatiënten, tot zijn grote angst werkelijkheid werd: hij kreeg zelf corona en ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9JxJzyckm_MJ:https://twitter.com/volkskrant/status/1253991518509170688+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "de Volkskrant on Twitter: \"Het geheime wapen van Turkije ...",
+        "link": "https://twitter.com/volkskrant/status/1240593863074406401",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "19 mrt. 2020",
+        "snippet": "Het geheime wapen van Turkije tegen corona: kolonya. Het aloude Turkse gebruik van het insmeren van de handen met sterk alcoholische ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2CrdYtLDP7MJ:https://twitter.com/volkskrant/status/1240593863074406401+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "de Volkskrant on Twitter: \"Om een corona-uitbraak in de ...",
+        "link": "https://twitter.com/volkskrant/status/1254787383989432321",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "27 apr. 2020",
+        "snippet": "Onafhankelijk, betrouwbaar, toegankelijk: volg de Volkskrant hier voor ... Om een corona-uitbraak in de gevangenis te voorkomen, worden ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nWnpGXQ73AcJ:https://twitter.com/volkskrant/status/1254787383989432321+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "de Volkskrant on Twitter: \"Inwoners van de Haagse wijk ...",
+        "link": "https://twitter.com/volkskrant/status/1255476956872740864",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "29 apr. 2020",
+        "snippet": "Inwoners van de Haagse wijk Transvaal hebben, als ze corona krijgen, grotere kans op complicaties dan die van het nabijgelegen ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VIJpJHiHKzEJ:https://twitter.com/volkskrant/status/1255476956872740864+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 10,
+        "title": "de Volkskrant on Twitter: \"Het aantal doden en nieuwe ...",
+        "link": "https://twitter.com/volkskrant/status/1240633966102708224",
+        "displayed_link": "twitter.com › volkskrant › status",
+        "thumbnail": null,
+        "date": "19 mrt. 2020",
+        "snippet": "Het aantal doden en nieuwe ziekenhuisopnames door corona was de afgelopen 24 uur vergelijkbaar met gisteren, blijkt uit de dagelijkse ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4T6SQrqWW1UJ:https://twitter.com/volkskrant/status/1240633966102708224+&cd=10&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=10&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=10&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=20&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=30&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=40&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=50&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=60&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=70&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=80&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=Volkskrant+Corona+site:twitter.com&hl=nl&gl=nl&ei=1bbCXrO-JcvBmwXAz7rQDQ&start=90&sa=N&ved=2ahUKEwjz_NPS6b3pAhXL4KYKHcCnDtoQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=Volkskrant+Corona+site%3Atwitter.com&start=90"
+      }
+    }
+  }

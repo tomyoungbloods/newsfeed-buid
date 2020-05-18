@@ -1,0 +1,159 @@
+{
+    "search_metadata": {
+      "id": "5ec2b68b29ca734daf9407e0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0ab5f5d78b1c4167/5ec2b68b29ca734daf9407e0.json",
+      "created_at": "2020-05-18 16:23:39 UTC",
+      "processed_at": "2020-05-18 16:23:39 UTC",
+      "google_url": "https://www.google.nl/search?q=NOS+Corona+site%3Atwitter.com&oq=NOS+Corona+site%3Atwitter.com&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/0ab5f5d78b1c4167/5ec2b68b29ca734daf9407e0.html",
+      "total_time_taken": 5.91
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "NOS",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 1540000,
+      "time_taken_displayed": 0.52,
+      "query_displayed": "NOS Corona site:twitter.com"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "NOS on Twitter: \"Jemenieten onverschillig over corona: 'Geen ...",
+        "link": "https://twitter.com/NOS/status/1256998839048908803",
+        "displayed_link": "twitter.com › NOS › status",
+        "thumbnail": null,
+        "date": "3 mei 2020",
+        "snippet": "Onbegrijpelijk @NOS, met zo'n insteek (en zo'n titel) schets je een heel laconiek beeld van de situatie. Had dan tenminste de focus gelegd op ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5S6ZFtst5fgJ:https://twitter.com/NOS/status/1256998839048908803+&cd=1&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "NOS on Twitter: \"Corona check-app van OLVG nu door ...",
+        "link": "https://twitter.com/nos/status/1252490997042499585",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "snippet": "Corona check-app van OLVG nu door iedereen te gebruikenhttps://nos.nl/l/2331180. 11:54 PM - 20 Apr 2020. 28 Retweets; 40 Likes; Janneke van den Hoek ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QtScGwAkqpcJ:https://twitter.com/nos/status/1252490997042499585+&cd=2&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "NOS on Twitter: \"Tientallen arbeidsmigranten Velp besmet ...",
+        "link": "https://twitter.com/NOS/status/1256908609822343168",
+        "displayed_link": "twitter.com › NOS › status",
+        "thumbnail": null,
+        "date": "3 mei 2020",
+        "snippet": "Replying to @NOS. Dat komt er van als NL iedereen binnen laat en bij binnenkomst niks controleert. Vroeger hadden we grensbewaking nu ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m8WmQHNDhv0J:https://twitter.com/NOS/status/1256908609822343168+&cd=3&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "NOS on Twitter: \"Privacywaakhond is kritisch over data-plan ...",
+        "link": "https://twitter.com/nos/status/1258358814518251520",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "date": "7 mei 2020",
+        "snippet": "Replying to @NOS. Laat de titel gewoon zoals die is. De Jonge wil telecomwet wijzigen om coronadata te verzamelen. Een wet die nooit meer ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l5fawFfVnNAJ:https://twitter.com/nos/status/1258358814518251520+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "NOS on Twitter: \"Tegenlicht trekt corona-uitzending in om ...",
+        "link": "https://twitter.com/nos/status/1253751692471996424",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "date": "24 apr. 2020",
+        "snippet": "Do you want to know what the effect of fear mongering MSM is? This code was specially made for doctors to register people who had fear of CV ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dm9FOAIbn-MJ:https://twitter.com/nos/status/1253751692471996424+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "NOS on Twitter: \"Grieken namen snel strenge maatregelen ...",
+        "link": "https://twitter.com/nos/status/1251939144047235074",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "date": "19 apr. 2020",
+        "snippet": "Replying to @NOS. Misschien is het beter om even te wachten met conclusies tot zaken goed zijn uitgezocht. Een virus wordt geintroduceerd ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:e-tUn5dOwREJ:https://twitter.com/nos/status/1251939144047235074+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "NOS on Twitter: \"RIVM: 115 nieuwe doden door corona, 253 ...",
+        "link": "https://twitter.com/nos/status/1246774156932386817",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "date": "5 apr. 2020",
+        "snippet": "@NOS Er wordt minder getest, en er zijn strengere regels voor ziekenhuisopnamen gekomen (telefoontjes van artsen naar patiënten). Mensen ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z2Z-rvSu6-AJ:https://twitter.com/nos/status/1246774156932386817+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "NOS on Twitter: \"Eerste resultaten over opbouw immuniteit ...",
+        "link": "https://twitter.com/nos/status/1247208772784787457",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "snippet": "Eerste resultaten over opbouw immuniteit tegen corona komende weken verwachthttps://nos.nl/l/2329623. 10:05 AM - 6 Apr 2020. 19 Retweets; 59 Likes ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1FzvPcPHBdYJ:https://twitter.com/nos/status/1247208772784787457+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "NOS on Twitter: \"Kamer wil hoorzitting over corona-app: 'dit is ...",
+        "link": "https://twitter.com/nos/status/1250408659886256129",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "date": "15 apr. 2020",
+        "snippet": "Embed Tweet. Replying to @NOS. Kijk naar uitzending Lubach..ik wil dit niet. Zorg gewoon dat iedereen getest wordt en de besmetten isoleren ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C_b2w0d5hJ4J:https://twitter.com/nos/status/1250408659886256129+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 10,
+        "title": "NOS on Twitter: \"Alle scholen dicht in strijd tegen corona https ...",
+        "link": "https://twitter.com/nos/status/1239211828338704386",
+        "displayed_link": "twitter.com › nos › status",
+        "thumbnail": null,
+        "date": "15 mrt. 2020",
+        "snippet": "Die hebben ook kinderen en kunnen nu niet werken. Waarom praat hier niemand over. Wel hamsterd iedereen maar het winkelpersoneel ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ANUBOO-hGoUJ:https://twitter.com/nos/status/1239211828338704386+&cd=10&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=10&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=10&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=20&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=30&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=40&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=50&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=60&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=70&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=80&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=NOS+Corona+site:twitter.com&gl=nl&hl=nl&ei=j7bCXuuyK_WTr7wPrJeq8AY&start=90&sa=N&ved=2ahUKEwirtqmx6b3pAhX1yYsBHayLCm4Q8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Atwitter.com&start=90"
+      }
+    }
+  }

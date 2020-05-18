@@ -1,0 +1,188 @@
+{
+    "search_metadata": {
+      "id": "5ec2a9ae3c6d8e108455f6de",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/73d0ed91ae495cc5/5ec2a9ae3c6d8e108455f6de.json",
+      "created_at": "2020-05-18 15:28:46 UTC",
+      "processed_at": "2020-05-18 15:28:46 UTC",
+      "google_url": "https://www.google.nl/search?q=NOS+Corona+site%3Anos.nl&oq=NOS+Corona+site%3Anos.nl&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/73d0ed91ae495cc5/5ec2a9ae3c6d8e108455f6de.html",
+      "total_time_taken": 3.21
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "NOS",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 101000,
+      "time_taken_displayed": 0.31,
+      "query_displayed": "NOS"
+    },
+    "top_stories_link": "https://www.google.nl/search?gl=nl&hl=nl&q=NOS+Corona+site:nos.nl&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQt8YBKAF6BAgKEA4",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&tbm=nws",
+    "top_stories": [
+      {
+        "title": "Duitse vleesindustrie brandhaard corona, tot ergernis van Merkel",
+        "link": "https://nos.nl/l/2334259",
+        "source": "NOS",
+        "date": "6 uur geleden",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIADgAZQMBIgACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAAABQYCAwcEAf/EADUQAAIBAgUCBQEHAwUBAAAAAAECAwQRAAUSITEGQRMiUWFxFCMyQoGRobEVUtFicoLC4ST/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQBAAX/xAAmEQACAgEDAgYDAAAAAAAAAAAAAQIRAxIhMQRREyJBcaHBYeHx/9oADAMBAAIRAxEAPwBJkcFPBJUVL5TLUxwsCr3cAi4HBttffcH0x66+ugznOqSP6SqSSoYoB4y31GwBAANgLDa3AJ9Tjdl9OViRIpquMqt2MEgYc9wLg/phguX5nSZnIy53NC6Q60aop2sb32BS1+Pbt84TSbtjbaVIU5l0/W0MAlgqpLeQHWLMSyE2DDfYi2PRS1GfUccccOWLNosWepZZb8k2uR/afU7D1F99bUZtFCqSZjFWF/Np84a5W/Dm23G/GFWlGDtmdFUaWCSL4B+8wS3mvIPU8DfG6ndUZpVXe5U9LZnmFbm09DVZetNVmlkGoxGMtxbc7kX98WmbwRy07UplYNJDMBvs97X/AJFvnEd0FSwTZrU51TRVMMTXTTNIxSMkhmsCTcX0AfJGKXrGJ6fJoZE1KkU/2pUFnEZB9N/vab4XKN7sZj5SNVDLFRmRAtkjjBESG52WwF/Yow+RhfnmXZZnFL4lFKtOpBleSOME3ubEjYG+ob+2GnSOXSRZaFrAHBmlMerdtLOWF/fcnGOZR0eR0s6yp4ivqeNCLC1xdQfm23vhaTinQx1KVEN1N03VUJZafMS8C0okkmeJdUjc21AX4Owv+H33m8zyn6MU4qKrx5hGCAqXsNN+bji+ng8Xx0avq1qckoTKgjM0Ad0bcOTGWAG2453/ANOEH00C1UUFakcsRAjs6gkkhAN+3Jxqytcox4fyL8pRcwP0cMzJIYypmjOlyVBPmB5vY8i+57bY20EuXxQtHmDfZMtw+yofP5Va9tLb7djvxiiy3Jcqqq2SUtLFWavDQxOb3Kahc78XP5aceKoyCamqpfCgNTA0Do15ASR+HsAdmBt/jBxyJ7i5Y2tjGbI8ofw2FNUQKyBl0gJqFz3HO4Pxgx4qSpSGBYrzAx3Qx/2bk23YHknY8dtrY+YOxdM2LS59Co8OasiiAt4cLFFW/oF274881BmFX4rz5jWhSguqEgG3bj073xRt1pl0mXrHLBViTQNf2QC3tvbzYMn6HzFqWVqWd4ctq4rfSVptJa4I1Wv6fO++MabewxNVuT0dDWzUpV6irBVvszLOSx9zrJw/pFrZClJSqX1CwQTRn/rf98b80/qnS+YUtTmMXiZX4ZhYUhDLe3lBBC2N+/z8HOLrClVaWmgkp4HdWBM+9zvYXG3p3vbtvg80fC9bBxXleyobVcE+VUtKKKZFSGXXVuBu50edgvHHbGOV9URZhRhqiMvG1T4AljXa+pQpI+WGIWj6ro83NTknUED5czyfZyCSyI1ib2PA8u25BvwOMUPR1Rl0eXVNHBUCsWIipMkY2N1BA/3HQTbCZNVuP00iqzCq+inkjgu8vh6/DUEC29jx3IIvjRBXQ9Qx1VOFBMJXQSOzKGBt+o+Vwq6vrK0V1BHCYDA8U4kSUkFmXSU0kcEG+F/Ste1dWTVP0i0LSUqLHEJhIXsGsSBuv3rYDUpRCWNpWOoMsjmgp5w6Dw4EjOsG/Iv+22JDNMkYZnpmLR2KL41hyGuL9rccevvjHM85zCVoZMlqDLJJToZIbeVJAd9V9t73/wCO2Msvzmv0COsp9ZTy1KyOxUbbi5uSTf15vxhEZNLdj3ia37jnJ6SSkoV0yeFVuQlRILkeJoVL+wN9h/jD+elr482R4VjkhUblmsSx2JI9LD98SNP1CKWvfQXIMw1Iyg6lIHkuPx9vf1xR/wBQzH66pjiYCDQpiDC7q+q5U+2kjudiPTGqW24EoyTNkmX12ZhlSliVaeV08wXckhtiRuLEYMD9SSRysIQukWBMqW1Nbcg9+2DDY541wTywTbslegMpy6trJMwYl4aJ10eUBJH3PyQNjwORjpmWVq1dGlUrBkluykHa19scvjr6aGphynIYictqZ2dpizBVBN3F7XOw2+bdr4s+kI4TlfiCMiEuwhjZyyogJtz+uLcMdUHLsI6h6cij3+h7XSwzwy006o6yIQ0bb3HG49McwzzLKSRIYoKUlXldUeZbiE6bh7+tsWq0kUlVPXXMLv8AZx6DtoHG3HJJ/PHP4evoXraSkpqYGWK0Tr4mvxgWAbUPUbkH57E4V1MHxEZ0slyz5SZcsqOmbRSCGwQtK1wdwzWvYC9jew7HDLL5f6M5gn8Bqkys1PTRqqCS42LNtuD39xgqOpKF6eamNC0bwVBtubsha2oKbXBBYft23WV1DLXV60iVMcBjjMoaOHgIysRe9jq2P5DtiNXw2ehON7sqer6N8wGVQRAaxKZtSkbFQLC54B339QMLszqEpTHVa46eoeSMMWBWTRdgLgeh1cdwPXEvTZ9Xtn8lPJPPVVkGkOqsEQ2Vj5TttuD6/njKt6kqIJIstzOkTVWTl1Jl13DMDuD6X9uMF4U1yhUZ46qzOjrDlfUdQ6O5gmOmQWsrCwuTtb3GPbnFetPUyGKF38Bi8xU7Pa1yPkX+f55smb5lNNGGq4XEouwiUX45IA2OGQaeWijqasn6h60N921zY6uPkYdi6PW25Ov6T5esUElGNv8AQ3oaqWvgcGFmNZKyuhNipO4sfixBxXQVGaTfXST6YJI1MmkG4kTTcG444HvbE3BSvP1k8UqSRxU8a2Kjyh9EQ3P5W2He+K3wzIjSpcVcyKzwq1wY7WFiQLX0gHHeDCLabs5Z8kop1Qwp6vLFgjpKh4pRTqFXUqtYcbE/Hz/GDCamqK+GRzJkDhXVWAVkbQ2915tYdj3ueMGCSRlv1IGCorqbMaeoNUn/ANMTMyxsx2sPKb2H4vTscdwoIlpMiipixAEOkkGxtbBgxatunTXq38EcvNnd9l8ipcx0pHBH5lQAaub44ZnmZ1MeeZglDDJEUq3jvHMwFwbbBSLcYMGJ7vdlFUqQ06Jlqq/My+ZFpwSojWoJYLc7nfHQK5ooUjWnjSMyeVAosNI729ycGDD80UscKXp9k+CUpZJ2+H9EPlEizddVJDB/ElYDS42sNPb4vjz9beKnU6IEEjQolpLna++3/uDBheR+Vew3HFan7imjymqcAmOxG4C7KT+mL1aWHNMqypHeeglpfNKpRG1Ptv3upsfT3GDBiZzZUscSggpspMyzVKQzVIAUytEQTtb0w/oEy6JFSmSKNALBU2A/LBgwATGSmC2xGDBgxoFH/9k="
+      },
+      {
+        "title": "Kabinet zet corona-data in 'dashboard' voor snellere aanpak",
+        "link": "https://nos.nl/l/2334206",
+        "source": "NOS",
+        "date": "21 uur geleden",
+        "thumbnail": "data:image/jpeg;base64,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"
+      },
+      {
+        "title": "Vrijwilligers bereid zich met coronavirus te laten besmetten voor vaccinonderzoek",
+        "link": "https://nos.nl/l/2334287",
+        "source": "NOS",
+        "date": "2 uur geleden",
+        "thumbnail": "data:image/jpeg;base64,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"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Duitse vleesindustrie brandhaard corona, tot ergernis ... - NOS",
+        "link": "https://nos.nl/l/2334259",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "7 uur geleden",
+        "snippet": "Het aantal coronabesmettingen laten ook in Duitsland al weken een dalende lijn zien. Maar tot grote ergernis van bondskanselier Angela ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r1S-40KPeLgJ:https://nos.nl/l/2334259+&cd=4&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "Coronacijfers van 18 mei: laag aantal doden en opnames | NOS",
+        "link": "https://nos.nl/l/2334286",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "2 uur geleden",
+        "snippet": "Coronacijfers van 18 mei: laag aantal doden en opnames. Het aantal doden en opnames als gevolg van het coronavirus blijft dalen. Het RIVM ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0KD20jloUroJ:https://nos.nl/l/2334286+&cd=5&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 3,
+        "title": "Kabinet zet corona-data in 'dashboard' voor snellere ... - NOS",
+        "link": "https://nos.nl/l/2334206",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "22 uur geleden",
+        "snippet": "Het corona-monitoringssysteem is vandaag in het Catshuis besproken tussen de meest betrokken ministers, deskundigen en premier Rutte.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0Ui3AWpGKa8J:https://nos.nl/l/2334206+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "Duizenden patiënten met 'milde' coronaklachten zijn ... - NOS",
+        "link": "https://nos.nl/l/2334166",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "1 dag geleden",
+        "snippet": "Duizenden patiënten met 'milde' coronaklachten zijn wekenlang ziek. Rinke van den Brink. Redacteur gezondheidszorg.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r5T_HOL4E_cJ:https://nos.nl/l/2334166+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "Antwoorden op vragen rond corona | NOS",
+        "link": "https://nos.nl/collectie/13833-antwoorden-op-vragen-rond-corona.html",
+        "displayed_link": "nos.nl › collectie › 13833-antwoorden-op-vragen-rond...",
+        "thumbnail": null,
+        "date": "5 dagen geleden",
+        "snippet": "We maken regelmatig artikelen die antwoord geven op vragen die op dit moment leven rond het coronavirus, die verzamelen we hier. Het gaat ...",
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Piekeren, wakker liggen en ...",
+              "link": "https://nos.nl/l/2328634"
+            },
+            {
+              "title": "Vast in buitenland, of ...",
+              "link": "https://nos.nl/l/2328376"
+            }
+          ]
+        },
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8UcMS8nx7MgJ:https://nos.nl/collectie/13833-antwoorden-op-vragen-rond-corona.html+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "Achtergrond en uitleg bij coronanieuws | NOS",
+        "link": "https://nos.nl/collectie/13824-achtergrond-en-uitleg-bij-coronanieuws.html",
+        "displayed_link": "nos.nl › collectie › 13824-achtergrond-en-uitleg-bij-cor...",
+        "thumbnail": null,
+        "date": "3 dagen geleden",
+        "snippet": "Op deze pagina bundelen we de belangrijkste achtergrond- en uitlegverhalen. Handhaving. 'Verschillend hanteren coronaregels leidt tot ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fOQznjeEcKEJ:https://nos.nl/collectie/13824-achtergrond-en-uitleg-bij-coronanieuws.html+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "Hongerpandemie dreigt: 'Niet corona zelf, maar ... - NOS",
+        "link": "https://nos.nl/l/2334114",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "2 dagen geleden",
+        "snippet": "\"Ik zit al twintig jaar in het vak, maar dit heb ik nog nooit meegemaakt\", zegt Margot van der Velden. \"Door de coronacrisis dreigt een wereldwijd ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CLx5ndsMbLIJ:https://nos.nl/l/2334114+&cd=10&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 8,
+        "title": "'Nu de grootste coronapaniek weg is, neemt ook de ... - Nos",
+        "link": "https://nos.nl/l/2331140",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "20 apr. 2020",
+        "snippet": "\"Toen corona net in Nederland was, merkte je enorme eensgezindheid: er waren collectieve acties nodig, en we waren ertoe bereid: niet naar ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l7MQkKxxjWMJ:https://nos.nl/l/2331140+&cd=11&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "150 doden door corona in gehandicaptenzorg: 'Deze ... - NOS",
+        "link": "https://nos.nl/l/2331378",
+        "displayed_link": "nos.nl › ...",
+        "thumbnail": null,
+        "date": "22 apr. 2020",
+        "snippet": "Het coronavirus raakt mensen met een lichamelijke of verstandelijke beperking hard, maar er is volgens betrokkenen weinig aandacht voor ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Uan3hJYy42QJ:https://nos.nl/l/2331378+&cd=12&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=10&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=10&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=20&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=30&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=40&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=50&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=60&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=70&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=80&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=NOS+Corona+site:nos.nl&gl=nl&hl=nl&ei=sKnCXqi5KY37-gSu7pCoDA&start=90&sa=N&ved=2ahUKEwio0ZCO3b3pAhWNvZ4KHS43BMUQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=NOS+Corona+site%3Anos.nl&start=90"
+      }
+    }
+  }

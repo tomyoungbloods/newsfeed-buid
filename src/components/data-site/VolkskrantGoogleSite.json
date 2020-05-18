@@ -1,0 +1,170 @@
+{
+    "search_metadata": {
+      "id": "5ec2aa979a5ff7368014bab5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/26a799c3546650ec/5ec2aa979a5ff7368014bab5.json",
+      "created_at": "2020-05-18 15:32:39 UTC",
+      "processed_at": "2020-05-18 15:32:39 UTC",
+      "google_url": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&oq=VOLKSKRANT+Corona+site%3Avolkskrant.nl&uule=w+CAIQICIpVGlsYnVyZyxUaWxidXJnLE5vcnRoIEJyYWJhbnQsTmV0aGVybGFuZHM&hl=nl&gl=nl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/26a799c3546650ec/5ec2aa979a5ff7368014bab5.html",
+      "total_time_taken": 15.85
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "VOLKSKRANT",
+      "location_requested": "Tilburg, Tilburg, North Brabant, Netherlands",
+      "location_used": "Tilburg,Tilburg,North Brabant,Netherlands",
+      "google_domain": "google.nl",
+      "hl": "nl",
+      "gl": "nl",
+      "device": "desktop"
+    },
+    "search_information": {
+      "organic_results_state": "Results for exact spelling",
+      "total_results": 547000,
+      "time_taken_displayed": 0.32,
+      "query_displayed": "VOLKSKRANT"
+    },
+    "top_stories_link": "https://www.google.nl/search?hl=nl&gl=nl&q=VOLKSKRANT+Corona+site:volkskrant.nl&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQt8YBKAF6BAgKEA4",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&tbm=nws",
+    "top_stories": [
+      {
+        "title": "China lijkt bezorgder om zijn imago dan om juiste informatie over corona",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/china-lijkt-bezorgder-om-zijn-imago-dan-om-juiste-informatie-over-corona~b648747f/",
+        "source": "Volkskrant",
+        "date": "23 uur geleden",
+        "thumbnail": "data:image/jpeg;base64,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"
+      },
+      {
+        "title": "Pas op, daar komt de tweede corona-golf!",
+        "link": "https://www.volkskrant.nl/wetenschap/pas-op-daar-komt-de-tweede-corona-golf~b6377fdc/",
+        "source": "Volkskrant",
+        "date": "3 uur geleden",
+        "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAAA4CAMAAADTssbUAAAAzFBMVEWqyan///8mpv2szKskpP8lpf7/YCmZtJiWsZWUrpIAoP0op/ylza2uyqWwy6Onx6Z6wf3/XSSIoIeeu52Op42bsIqAl3ufwJ6gxrCEvcpyt9ZbseRJre47qvLP4+vu9Oi619eIvbzz+v9Ztv/f6t6zz7Pb59K+3/3Z7f3A1bT5+vHQ6P/C3NWIvsRArf0Al/7k3M+JyP2f0P7+3NS7tZL/zsTPmXD/qJTqc0Kzv57/az3LpYD/UADsek39cUb/vKv+6OLlhVvFrYndkGkzThsqAAAB00lEQVRYhe2VWVPCMBSFSbipmlhC3cUFTYFGq1WquOCu//8/eZOGoQ+8YJdxOpyZ9qEP95tz7tJWa5HaG+2F38tVe70GCFKa5KUWytqK8i8pTep+TRemFkpN3W/SHWtQ9xtFqQHSrDvWpAuzoixLadK+1PNHXlGWpdRyYba2ZPWQ7bX2TsVmfL/T2d3bl36FiM7BYe/o+OS0f3YuK0pNHvQSYIxRxpUKyWBYAUjKUcIoCl8Q6ZgQ0h+WjfEvLhWnDNAJvniXEB3F+qpcTOc6jGJuvVCBkSVK33DOxa2/WR7EP+QUgM4EY0IgJd0wJXf3pWHkSCdZWth9wCfRCjOzmjyUhRliNRWahoBFmcYoRyGPT8+lcOQAi8ViHhhAQuaaBi9lYIYWYjZlJibUnDJ5Dd5ahU+OtaKIABOXc5PmvJB3L5gWHwIspLshNxRniOs85ePV84qmJkdYKOWGADM70M1TPgMPMV+bRVKTfSwUmW0BO8c2Mq7ymKnFTIvM2r6pE3N3wVxrMjNxmiX3aCheEHwXwJg6Ic9uCwU30CAiogTjaTZlnlXw8+fUzBzjgLkLxqjD4GImQgg2zlG84M8bipRorG+cBToXYwgUPE/B1H6WJ/wCsUUg/OTQbwAAAAAASUVORK5CYII="
+      },
+      {
+        "title": "'Corona, tabak, alcohol, ik snap het verschil in aanpak niet'",
+        "link": "https://www.volkskrant.nl/columns-opinie/corona-tabak-alcohol-ik-snap-het-verschil-in-aanpak-niet~b86446a8/",
+        "source": "Volkskrant",
+        "date": "4 min. geleden",
+        "thumbnail": "data:image/jpeg;base64,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"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "De slooptocht van het coronavirus in het lichaam ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/wetenschap/de-slooptocht-van-het-coronavirus-in-het-lichaam-bijna-geen-orgaan-blijft-onberoerd~b1914afa/",
+        "displayed_link": "www.volkskrant.nl › wetenschap › de-slooptocht-van-h...",
+        "thumbnail": null,
+        "date": "3 dagen geleden",
+        "snippet": "De slooptocht van het coronavirus in het lichaam: bijna geen orgaan blijft onberoerd. Beeld Manon van der Zwaal - Illustraties Melissa de Gier.",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5da_t686YWQJ:https://www.volkskrant.nl/wetenschap/de-slooptocht-van-het-coronavirus-in-het-lichaam-bijna-geen-orgaan-blijft-onberoerd~b1914afa/+&cd=1&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 2,
+        "title": "De belangrijkste grafieken en kaarten over de ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/de-belangrijkste-grafieken-en-kaarten-over-de-uitbraak-van-het-coronavirus-in-nederland~b18f4613/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › de-belangrijks...",
+        "thumbnail": null,
+        "date": "6 uur geleden",
+        "snippet": "Vanwege de uitbraak van het coronavirus verschijnen dagelijks vele cijfers en grafieken. ... Meer weten over corona in andere landen?"
+      },
+      {
+        "position": 3,
+        "title": "corona | De Volkskrant",
+        "link": "https://www.volkskrant.nl/tag/corona",
+        "displayed_link": "www.volkskrant.nl › tag › corona",
+        "thumbnail": null,
+        "snippet": "Nieuws & Achtergrond. Live: Beademingsapparaat in de ban na tragische brand op Russische ic | Woordvoerder Poetin ligt met corona in ziekenhuis ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i1BrfcIFQG0J:https://www.volkskrant.nl/tag/corona+&cd=6&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 4,
+        "title": "CORONAVIRUS | De Volkskrant",
+        "link": "https://www.volkskrant.nl/dossier/corona-virus",
+        "displayed_link": "www.volkskrant.nl › dossier › corona-virus",
+        "thumbnail": null,
+        "snippet": "Coronavirus in Noord-Italië. Hoe dichter bij de zona rossa, hoe stiller op straat (en hoe leger de supermarkt) · Zuid-Koreaanse vrouw blijkt 'superbesmetter' van ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QNhOMEyrhe0J:https://www.volkskrant.nl/dossier/corona-virus+&cd=7&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 5,
+        "title": "Coronavirus | De Volkskrant",
+        "link": "https://www.volkskrant.nl/dossier/coronavirus",
+        "displayed_link": "www.volkskrant.nl › dossier › coronavirus",
+        "thumbnail": null,
+        "snippet": "INTERVIEW Hans Hoogervorst. 'Als de centrale banken zo doorgaan, loopt het geheid slecht af' · Obama kritisch op coronabeleid Trump | Efteling volgeboekt tot ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XN49p0UKwHMJ:https://www.volkskrant.nl/dossier/coronavirus+&cd=8&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 6,
+        "title": "Leven met corona | De Volkskrant",
+        "link": "https://www.volkskrant.nl/dossier/leven-met-corona",
+        "displayed_link": "www.volkskrant.nl › dossier › leven-met-corona",
+        "thumbnail": null,
+        "snippet": "WETENSCHAP Coronavirus. Zijn we af van corona als het straks zomer wordt? Ik ben verkouden, maar hoe weet ik nou of ik corona heb? CORONAVIRUS ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jqAUyxgE-JwJ:https://www.volkskrant.nl/dossier/leven-met-corona+&cd=9&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 7,
+        "title": "Corona wereldwijd – cijfers over het coronavirus ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/corona-wereldwijd-cijfers-over-het-coronavirus-in-alle-landen-op-een-rij~b14e8079/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › corona-wereld...",
+        "thumbnail": null,
+        "date": "2 dagen geleden",
+        "snippet": "Alle landen in de wereld publiceren dagelijks cijfers over de uitbraak van het coronavirus. Maar in elk land zijn de problemen weer anders en ..."
+      },
+      {
+        "position": 8,
+        "title": "China lijkt bezorgder om zijn imago dan om juiste ... - Volkskrant",
+        "link": "https://www.volkskrant.nl/nieuws-achtergrond/china-lijkt-bezorgder-om-zijn-imago-dan-om-juiste-informatie-over-corona~b648747f/",
+        "displayed_link": "www.volkskrant.nl › nieuws-achtergrond › china-lijkt-...",
+        "thumbnail": null,
+        "date": "23 uur geleden",
+        "snippet": "Australië heeft een onafhankelijk onderzoek gevraagd naar het handelen van China in de coronacrisis. Maandag en dinsdag staat deze ...",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sgfs06Crbj0J:https://www.volkskrant.nl/nieuws-achtergrond/china-lijkt-bezorgder-om-zijn-imago-dan-om-juiste-informatie-over-corona~b648747f/+&cd=11&hl=nl&ct=clnk&gl=nl"
+      },
+      {
+        "position": 9,
+        "title": "Nederland test relatief weinig op corona | De Volkskrant",
+        "link": "https://www.volkskrant.nl/wetenschap/nederland-test-relatief-weinig-op-corona~bef96bcf/",
+        "displayed_link": "www.volkskrant.nl › wetenschap › nederland-test-relati...",
+        "thumbnail": null,
+        "date": "3 dagen geleden",
+        "snippet": "Niet iedereen met corona-achtige klachten wordt getest en ook het contactonderzoek is in Nederland beperkt. Hoe doen andere landen dat?",
+        "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uxof-GSxHF0J:https://www.volkskrant.nl/wetenschap/nederland-test-relatief-weinig-op-corona~bef96bcf/+&cd=12&hl=nl&ct=clnk&gl=nl"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=10&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8NMDegQICxBL",
+      "other_pages": {
+        "2": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=10&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxA5",
+        "3": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=20&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxA7",
+        "4": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=30&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxA9",
+        "5": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=40&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxA_",
+        "6": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=50&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxBB",
+        "7": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=60&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxBD",
+        "8": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=70&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxBF",
+        "9": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=80&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxBH",
+        "10": "https://www.google.nl/search?q=VOLKSKRANT+Corona+site:volkskrant.nl&hl=nl&gl=nl&ei=pqrCXvDVJ9H6-gSC3YuABg&start=90&sa=N&ved=2ahUKEwjwwLWD3r3pAhVRvZ4KHYLuAmAQ8tMDegQICxBJ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=nl&google_domain=google.nl&hl=nl&location=Tilburg%2C+Tilburg%2C+North+Brabant%2C+Netherlands&q=VOLKSKRANT+Corona+site%3Avolkskrant.nl&start=90"
+      }
+    }
+  }
