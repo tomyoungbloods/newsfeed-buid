@@ -1,7 +1,7 @@
 <template>
   <div>
     <h5>Zoekresultaten Google</h5>
-    <p>Welk gedeelte van de resultaten komt door de bron zelf?</p>
+    <p>Wie komt er het meeste voor over corona op twitter?</p>
     <svg width="300" height="400">
       <g
         class="flower"
@@ -21,43 +21,39 @@
         <input type="number" v-model="flower.amount" step="10000000" min="10000000">
       </div>
     </div>
-  </div> 
+  </div>
 </template>
 
 <script>
 import { hierarchy, pack } from 'd3-hierarchy'
 import * as d3 from "d3";
-import NosGoogle from '../data/NosGoogle'
-import NuGoogle from '../data/NuGoogle'
-import RtlGoogle from '../data/RtlGoogle'
-import VolkskrantGoogle from '../data-site/VolkskrantGoogleSite'
-import NosGoogleSite from '../data-site/NosGoogleSite'
-import NuGoogleSite from '../data-site/NuGoogleSite'
-import RtlGoogleSite from '../data-site/RtlGoogleSite'
-import VolkskrantGoogleSite from '../data-site/VolkskrantGoogleSite'
+import NosGoogleTwitter from '../data-twitter/NosTwitter'
+import NuGoogleTwitter from '../data-twitter/NuTwitter'
+import RtlGoogleTwitter from '../data-twitter/RtlTwitter'
+import VolkskrantGoogleTwitter from '../data-twitter/VolkskrantTwitter'
 
 export default {
   data() {
     return {
       flowers: [
 		  {
-          name: NosGoogleSite.search_parameters.q,
-          amount: 0.011,
+          name: NosGoogleTwitter.search_parameters.q,
+          amount: NosGoogleTwitter.search_information.total_results,
           color: '#e61e14'
           },
           {
-          name: NuGoogleSite.search_parameters.q,
-          amount: 0.460,
+          name: NuGoogleTwitter.search_parameters.q,
+          amount: NuGoogleTwitter.search_information.total_results,
           color: '#1f2544'
           },
           {
-          name: RtlGoogleSite.search_parameters.q,
-          amount: 0.010,
+          name: RtlGoogleTwitter.search_parameters.q,
+          amount: RtlGoogleTwitter.search_information.total_results,
           color: '#35a7d7'
           },
           {
-          name: VolkskrantGoogle.search_parameters.q,
-          amount: 20.95,
+          name: VolkskrantGoogleTwitter.search_parameters.q,
+          amount: VolkskrantGoogleTwitter.search_information.total_results,
           color: '#008bc3'
           },
       ]

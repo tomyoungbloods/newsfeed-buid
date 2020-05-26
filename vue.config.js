@@ -1,7 +1,7 @@
 module.exports = {  
-  devServer: {
-    proxy: 'http://localhost:8080/',
-},
+  // devServer: {
+  //    proxy: 'https://localhost:8080'
+  //   },
   pwa: {
     themeColor: '#4DBA87',
     msTileColor: '#000000',

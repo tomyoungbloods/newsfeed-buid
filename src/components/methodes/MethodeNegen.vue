@@ -1,7 +1,7 @@
 <template>
   <div>
     <h5>Zoekresultaten Google</h5>
-    <p>Wie komt er het meeste voor over corona op twitter?</p>
+    <p>Wie komt er het meeste voor over corona op Facebook?</p>
     <svg width="300" height="400">
       <g
         class="flower"
@@ -27,10 +27,10 @@
 <script>
 import { hierarchy, pack } from 'd3-hierarchy'
 import * as d3 from "d3";
-import NosGoogleTwitter from '../data-twitter/NosTwitter'
-import NuGoogleTwitter from '../data-twitter/NuTwitter'
-import RtlGoogleTwitter from '../data-twitter/RtlTwitter'
-import VolkskrantGoogleTwitter from '../data-twitter/VolkskrantTwitter'
+import NosGoogleTwitter from '../data-fb/NosFb'
+import NuGoogleTwitter from '../data-fb/NuFb'
+import RtlGoogleTwitter from '../data-fb/RtlFb'
+import VolkskrantGoogleTwitter from '../data-fb/VolkskrantFb'
 
 export default {
   data() {

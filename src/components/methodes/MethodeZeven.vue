@@ -1,7 +1,7 @@
 <template>
   <div>
     <h5>Zoekresultaten Google</h5>
-    <p>Wie publiciteert er het meeste over corona?</p>
+    <p>Wie publiciteert er het meeste over corona op hun eigen platform?</p>
     <svg width="300" height="400">
       <g
         class="flower"

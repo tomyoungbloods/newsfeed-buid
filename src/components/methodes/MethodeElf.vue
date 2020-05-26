@@ -1,146 +1,40 @@
 <template>
-  <div>
-    <h5>Zoekresultaten Google</h5>
-    <p>Wie komt er het meeste voor over corona op Facebook?</p>
-    <svg width="300" height="400">
-      <g
-        class="flower"
-        v-for="flower in layoutData.children"
-        :key="flower.data.name"
-        :style="{
-          transform: `translate(${flower.x}px, ${flower.y}px)`
-        }"
-      >
-        <circle class="flower__circle" :r="flower.r" :fill="flower.data.color"></circle>
-        <text class="flower__label">{{ flower.data.name }}</text>
-      </g>
-    </svg>
-    <div class="controls">
-      <div class="control" v-for="flower in flowers" :key="flower.name">
-        <label>{{ flower.name }}</label>
-        <input type="number" v-model="flower.amount" step="10000000" min="10000000">
-      </div>
+    <div id="methode-twee">
+        <v-row class="no-padding">
+            <v-col class="no-padding">    
+                        <v-img
+                        src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/news%2FScreenshot%202020-05-23%20at%2010.21.27.png?alt=media&token=fe95c6ab-895b-4b0e-ba33-49ff789ba9db"
+                        class="white--text align-end border-radius-full"
+                        gradient="to bottom, rgba(255,255,255,0) 40%, rgba(80,181,242,1)"
+                        height="40vh"
+                        
+                        >
+                            <v-card-title class="font-weight-bold" v-text="this.title"></v-card-title>
+                        </v-img>
+            </v-col>
+            <v-col    
+            cols="12"
+            class="pt-4"
+            > 
+                {{this.text}}
+            </v-col>
+            <v-img
+            src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/news%2FScreenshot%202020-05-23%20at%2010.21.27.png?alt=media&token=fe95c6ab-895b-4b0e-ba33-49ff789ba9db"
+            >
+            </v-img>
+            <v-img
+            src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/news%2FScreenshot%202020-05-23%20at%2010.23.26.png?alt=media&token=4e86b65d-7ca0-44a5-a8f8-e09c5aa40c3c"
+            >
+            </v-img>
+        </v-row>
     </div>
-  </div>
 </template>
-
 <script>
-import { hierarchy, pack } from 'd3-hierarchy'
-import * as d3 from "d3";
-import NosGoogleTwitter from '../data-fb/NosFb'
-import NuGoogleTwitter from '../data-fb/NuFb'
-import RtlGoogleTwitter from '../data-fb/RtlFb'
-import VolkskrantGoogleTwitter from '../data-fb/VolkskrantFb'
-
 export default {
-  data() {
-    return {
-      flowers: [
-		  {
-          name: NosGoogleTwitter.search_parameters.q,
-          amount: NosGoogleTwitter.search_information.total_results,
-          color: '#e61e14'
-          },
-          {
-          name: NuGoogleTwitter.search_parameters.q,
-          amount: NuGoogleTwitter.search_information.total_results,
-          color: '#1f2544'
-          },
-          {
-          name: RtlGoogleTwitter.search_parameters.q,
-          amount: RtlGoogleTwitter.search_information.total_results,
-          color: '#35a7d7'
-          },
-          {
-          name: VolkskrantGoogleTwitter.search_parameters.q,
-          amount: VolkskrantGoogleTwitter.search_information.total_results,
-          color: '#008bc3'
-          },
-      ]
-    }
-  },
-
-  computed: {
-    transformedFlowerData() {
-      return {
-        name: 'Top Level',
-        children: this.flowers.map(flower => ({
-          ...flower,
-          size: flower.amount,
-          parent: 'Top Level'
-        }))
-      }
-    },
-
-    layoutData() {
-      // Generate a D3 hierarchy
-      const rootHierarchy = hierarchy(this.transformedFlowerData)
-        .sum(d => d.size)
-        .sort((a, b) => {
-          return b.value - a.value
-        })
-
-      // Pack the circles inside the viewbox
-      return pack()
-        .size([300, 400])
-        .padding(10)(rootHierarchy)
-    }
-  }
+     data: () => ({
+         title: 'Methode 11' ,
+         text: 'Door het analyseren van de data ben ik er achter gekomen dat een NOS ondanks dat ze minder volgers hebben, meer tweeten en ook nog is meer tweeten over corona ze alsnog veel meer gedeeld worden. Dat betekend dat elke tweet van NOS vele malen meer waard is. Ik ben daarom benieuwd naar waardoor dat komt dat mensen ervoor kiezen om een NOS te delen.'
+     })
 }
 </script>
-
-<style>
-body {
-  font: 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
-    Arial, sans-serif;
-}
-
-svg {
-  display: block;
-  margin: 0 auto;
-}
-
-.flower {
-  transition: transform 0.2s ease-in-out;
-  text-anchor: middle;
-  font-size: 10px;
-}
-
-.flower__circle {
-  transition: r 0.2s ease-in-out;
-}
-
-.flower__label {
-  fill: #fff;
-  font-weight: bold;
-  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-}
-
-.controls {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-}
-
-.control {
-  display: inline-flex;
-  flex-direction: column;
-  margin: 0 4px;
-}
-
-.control label {
-  font-size: 12px;
-  font-weight: bold;
-  margin-bottom: 4px;
-}
-
-.control input {
-  display: block;
-  font: inherit;
-  width: 100px;
-}
-
-.control input {
-    font-size: 10px !important;
-}
-</style>
+   

@@ -33,10 +33,6 @@ export default {
         { bron: 'NU', punten: 175, color: '#453292;'}, 
         { bron: 'GUARDIAN', punten: 120, color: '#453292;'},
         { bron: 'REUTERS', punten: 40, color: '#453292;'}, 
-        
-        
-      
-      
     ]
     })
 }
