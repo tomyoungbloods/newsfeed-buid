@@ -11,6 +11,7 @@
   </div>
 </template>
 <script>
+import * as Twitter from "../../../twitter.js" 
 import Nos from "./Nos"
 import Rtl from "./Rtl"
 import Volkskrant from "./Volkskrant"
