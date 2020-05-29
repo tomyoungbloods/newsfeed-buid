@@ -20,6 +20,7 @@ import ViewNews from '@/components/news/ViewNews'
 import EditNews from '@/components/news/EditNews' 
 import Results1 from '@/components/results/Results1' 
 import Results2 from '@/components/results/Results2' 
+import Results3 from '@/components/results/Results3' 
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
@@ -149,6 +150,11 @@ let router = new Router({
       path: '/results-2',
       name: 'results-2',
       component: Results2, 
+    },
+    {
+      path: '/results-3',
+      name: 'results-3',
+      component: Results3, 
     },
     {
       path: '/login',
