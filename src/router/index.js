@@ -18,6 +18,8 @@ import CreateNews from '@/components/news/CreateNews'
 import NewsDashboard from '@/components/news/NewsDashboard'
 import ViewNews from '@/components/news/ViewNews'
 import EditNews from '@/components/news/EditNews' 
+import Results1 from '@/components/results/Results1' 
+import Results2 from '@/components/results/Results2' 
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
@@ -137,6 +139,16 @@ let router = new Router({
       path: '/methode-12',
       name: 'methode-12',
       component: MethodeTwaalf, 
+    },
+    {
+      path: '/results-1',
+      name: 'results-1',
+      component: Results1, 
+    },
+    {
+      path: '/results-2',
+      name: 'results-2',
+      component: Results2, 
     },
     {
       path: '/login',

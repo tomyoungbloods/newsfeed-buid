@@ -16,6 +16,14 @@
 
 </template>
 
+<style scoped>
+.theme--dark.v-bottom-navigation {
+    background-color: #eee;
+    color: #50b5f2;
+    box-shadow: #fff 1px 1px 20px !important;
+}
+</style>
+
 <script>
 import firebase from 'firebase'; 
 import LoggedInBar from './LoggedInBar'
@@ -45,4 +53,5 @@ export default {
 
     
 </script>
+
  

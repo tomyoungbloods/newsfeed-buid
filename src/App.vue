@@ -2,7 +2,7 @@
   <v-app class="myFont">
     <Navbar :key="$route.fullPath"/>
     <v-container>
-          <router-view class="px-4"></router-view>
+          <router-view class="px-4 content"></router-view>
     </v-container>
     <BottomBar :key="$route.fullPath"/>
         <v-content>

@@ -103,7 +103,7 @@ img {
 }
 
 .v-item-group.v-bottom-navigation .v-btn{
-    min-width: 25%;
+    min-width: 33.3%;
 }
 
 .v-toolbar__title {
@@ -173,4 +173,24 @@ input:not([type]):disabled, input:not([type])[readonly="readonly"], input[type=t
 .col .row {
     margin-left: auto;
     margin-right: auto;
+}
+
+.container {
+    padding: 0px;
+}
+
+.content {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+
+.transition-fade {
+    transition: 0.4;
+    opacity: 1;
+}
+
+html.is-animating .transition-fade {
+    opacity: 0;
 }
