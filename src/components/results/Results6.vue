@@ -1,8 +1,8 @@
 <template>
 <div id="results-2">
     <div class="row">
-        <h1 class="zij">Er is een enquete afgenomen om te kijken welke bronnen volgens ons betrouwbaar nieuws brengen?</h1>
-            <v-btn to="/results-3">Laat mij dat zien</v-btn>
+        <h1 class="zij">Maar hoe komt het dan toch dat we ons nieuws halen van de bekende bronnen?</h1>
+            <v-btn to="/results-7">Laat mij dat zien</v-btn>
     </div>        
 </div>
    
@@ -25,7 +25,7 @@ export default {
 </script>
 <style scoped>
     h1{
-        font-size: 20px;
+        font-size: 30px;
         text-align: center;
         font-weight: 700;
         color: #fff;
@@ -33,7 +33,7 @@ export default {
     }
 
     #results-2 {
-        background: #50B5F2 !important;
+        background: #FB0218 !important;
         width: 100%;
         height: calc(100vh - 80px);
         margin-top: 0;
@@ -45,5 +45,11 @@ export default {
     .row{
         display: flex;
         justify-content: center;
+    }
+    h3{
+        text-decoration: line-through;
+        font-size: 12px;
+        color: #fff;
+        font-weight: 600;
     }
 </style>

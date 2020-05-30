@@ -21,6 +21,11 @@ import EditNews from '@/components/news/EditNews'
 import Results1 from '@/components/results/Results1' 
 import Results2 from '@/components/results/Results2' 
 import Results3 from '@/components/results/Results3' 
+import Results4 from '@/components/results/Results4'
+import Results5 from '@/components/results/Results5'
+import Results6 from '@/components/results/Results6'
+import Results7 from '@/components/results/Results7'
+import Results8 from '@/components/results/Results8'
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
@@ -155,6 +160,31 @@ let router = new Router({
       path: '/results-3',
       name: 'results-3',
       component: Results3, 
+    },
+    {
+      path: '/results-4',
+      name: 'results-4',
+      component: Results4, 
+    },
+    {
+      path: '/results-5',
+      name: 'results-5',
+      component: Results5, 
+    },
+    {
+      path: '/results-6',
+      name: 'results-6',
+      component: Results6, 
+    },
+    {
+      path: '/results-7',
+      name: 'results-7',
+      component: Results7, 
+    },
+    {
+      path: '/results-8',
+      name: 'results-8',
+      component: Results8, 
     },
     {
       path: '/login',

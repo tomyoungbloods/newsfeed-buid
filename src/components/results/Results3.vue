@@ -6,7 +6,8 @@
                     v-for="item in methode"
                     :key="item.bron"
                     
-                    v-bind:style="{height: item.punten + 'px', width: item.punten + 'px',}" :class="item.bron" 
+                    v-bind:style="{height: item.punten + 'px', width: item.punten + 'px',}" :class="item.bron"
+                    :to="item.link" 
                     class="bubble"
                     
                     
@@ -27,7 +28,7 @@ export default {
         { bron: 'RTL', punten: 190, color: '#453292;'}, 
         { bron: 'NRC', punten: 100, color: '#453292;'},
         { bron: 'BBC', punten: 110, color: '#453292;'},
-        { bron: 'NOS (Klik hier)', punten: 220, color: '#453292;'},
+        { bron: 'NOS (Klik hier)', punten: 220, color: '#453292;', link: '/results-4'},
         { bron: 'TELEGRAAF', punten: 160, color: '#453292;'},
         { bron: 'VOLKSKRANT', punten: 180, color: '#453292;'},
         { bron: 'NU', punten: 175, color: '#453292;'}, 
@@ -99,7 +100,7 @@ button.bubble.v-btn.v-btn--contained.theme--light.v-size--default {
 }
 
 .NOS {
-  background: red;
+  background: #e61e14;
   animation: createBox 1s infinite;
   width: 200; height: 200px;
   animation-direction:alternate
@@ -108,10 +109,19 @@ button.bubble.v-btn.v-btn--contained.theme--light.v-size--default {
   0% {
     transform: scale(0.9);
   }
-  50% {
-    transform: scale(1);
+  100% {
+    transform: scale(1.1);
   }
+
   
+}
+
+.v-btn:not(.v-btn--round).v-size--default {
+    height: 36px;
+    min-width: 64px;
+    padding: 0 16px;
+    border-radius: 180px;
+    color: #fff;
 }
 
 
