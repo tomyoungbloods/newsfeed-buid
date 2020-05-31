@@ -3,7 +3,7 @@
     <router-link to="/results-13">
     <svg width="auto" height="auto" viewBox="0 0 100 100">
       <g
-        class="flower"
+        class="flower" 
         v-for="flower in layoutData.children"
         :key="flower.data.name"
         :style="{
