@@ -7,7 +7,7 @@
         </div>
         <div class="jort">
             <video width="240" height="100%" controls>
-                <source src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/video%2FScreen%20Recording%202020-05-30%20at%2015.20.48.mp4?alt=media&token=2f4d4e3f-f0ab-4903-9f3d-0bf4382d41f0" type="video/mp4">
+                <source src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/video%2FScreen%20Recording%202020-05-30%20at%2015.20.48.mp4?alt=media&token=2f4d4e3f-f0ab-4903-9f3d-0bf4382d41f0#t=0.1" type="video/mp4">
             </video>
         </div>
         <div>
@@ -55,7 +55,7 @@ export default {
         justify-content: center;
         align-items: center;
         display: flex;
-        background-size: contain;
+        background-size: cover;
         color: #fff;
     }
 
@@ -83,4 +83,6 @@ p{
     display: inline-block;
     margin-bottom: 20px !important;
 }
+
+
 </style>

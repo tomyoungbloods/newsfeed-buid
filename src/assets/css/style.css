@@ -194,3 +194,7 @@ input:not([type]):disabled, input:not([type])[readonly="readonly"], input[type=t
 html.is-animating .transition-fade {
     opacity: 0;
 }
+
+.v-btn:not(.v-btn--text):not(.v-btn--outlined):hover:before {
+    opacity: 0;
+}
