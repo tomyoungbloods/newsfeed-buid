@@ -6,7 +6,7 @@
             <iframe width="240" height="100%" src="https://www.youtube.com/embed/Vqpzk-qGxMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="jort">
-            <video width="240" controls>
+            <video width="240" height="100%" controls>
                 <source src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/video%2FScreen%20Recording%202020-05-30%20at%2015.20.48.mp4?alt=media&token=2f4d4e3f-f0ab-4903-9f3d-0bf4382d41f0" type="video/mp4">
             </video>
         </div>
