@@ -26,6 +26,15 @@ import Results5 from '@/components/results/Results5'
 import Results6 from '@/components/results/Results6'
 import Results7 from '@/components/results/Results7'
 import Results8 from '@/components/results/Results8'
+import Results9 from '@/components/results/Results9'
+import Results10 from '@/components/results/Results10'
+import Results11 from '@/components/results/Results11'
+import Results12 from '@/components/results/Results12'
+import Results13 from '@/components/results/Results13'
+import Results14 from '@/components/results/Results14'
+import Results15 from '@/components/results/Results15'
+import Results16 from '@/components/results/Results16'
+import Results17 from '@/components/results/Results17'
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
@@ -185,6 +194,51 @@ let router = new Router({
       path: '/results-8',
       name: 'results-8',
       component: Results8, 
+    },
+    {
+      path: '/results-9',
+      name: 'results-9',
+      component: Results9, 
+    },
+    {
+      path: '/results-10',
+      name: 'results-10',
+      component: Results10, 
+    },
+    {
+      path: '/results-11',
+      name: 'results-11',
+      component: Results11, 
+    },
+    {
+      path: '/results-12',
+      name: 'results-12',
+      component: Results12, 
+    },
+    {
+      path: '/results-13',
+      name: 'results-13',
+      component: Results13, 
+    },
+    {
+      path: '/results-14',
+      name: 'results-14',
+      component: Results14, 
+    },
+    {
+      path: '/results-15',
+      name: 'results-15',
+      component: Results15, 
+    },
+    {
+      path: '/results-16',
+      name: 'results-16',
+      component: Results16, 
+    },
+    {
+      path: '/results-17',
+      name: 'results-17',
+      component: Results17, 
     },
     {
       path: '/login',

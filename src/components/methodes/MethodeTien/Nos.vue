@@ -1,6 +1,8 @@
 <template>
-  <div id="nos-wrapper">
-    <p>NOS</p>
+  <div id="nos-wrapper" >
+  <router-link to="/results-9">
+
+    <p class="center">NOS<br><span>Klik hier</span></p>
     <svg width="300" height="300">
       <g
         class="flower"
@@ -14,8 +16,7 @@
         <text class="flower__label">{{ flower.data.name }}</text>
       </g>
     </svg>
-
-
+    </router-link>
   </div>
 </template>
 
@@ -83,7 +84,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 body {
   font: 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif;
@@ -98,6 +99,19 @@ body {
 svg {
   display: block;
   margin: 0 auto;
+}
+
+#nos-wrapper {
+  animation: createBox 1s infinite;
+  animation-direction:alternate
+}
+@keyframes createBox {
+  0% {
+    transform: scale(1.0);
+  }
+  100% {
+    transform: scale(1.05);
+  }
 }
 
 .flower {
@@ -142,5 +156,13 @@ svg {
 
 .control input {
     font-size: 10px !important;
+}
+
+.v-application a {
+    color: #fff;
+}
+
+span {
+    font-weight: 400;
 }
 </style>

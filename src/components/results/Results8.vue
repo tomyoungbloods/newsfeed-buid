@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="center">Hoe komt dat?</p>
+    <h1 class="center">Hoe komt dat?</h1>
     <nos></nos>
     <Nu></Nu>
     <rtl></rtl>
@@ -60,4 +60,12 @@ div#rtl-wrapper {
     height: 178px;
     background: #2a84aa;
 }
+
+h1{
+        font-size: 20px;
+        text-align: center;
+        font-weight: 700;
+        color: #110e1f;
+        margin-top: 0;
+    }
 </style>
