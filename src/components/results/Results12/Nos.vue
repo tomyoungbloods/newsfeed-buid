@@ -1,7 +1,8 @@
 <template>
-  <div id="nos-wrapper" >
-    <router-link to="/results-13">
-     <svg width="auto" height="auto" viewBox="0 0 100 100">
+  <div id="nos-wrapper">
+      <router-link to="/results-13">
+      <p>NOS</p>
+    <svg width="auto" height="auto" viewBox="0 0 100 100">
       <g
         class="flower"
         v-for="flower in layoutData.children"
@@ -21,24 +22,29 @@
 <script>
 import { hierarchy, pack } from 'd3-hierarchy'
 import * as d3 from "d3";
-import NosGoogleFb from '../../data-fb/NosFb'
-import NosGoogleSite from '../../data-site/NosGoogleSite'
-import NosGoogleTwitter from '../../data-twitter/NosTwitter'
+import NuGoogleFb from '../../data-fb/NuFb'
+import NuGoogleSite from '../../data-site/NuGoogleSite'
+import NuGoogleTwitter from '../../data-twitter/NuTwitter'
 
 export default {
   data() {
     return {
       flowers: [
-		{
+		  {
           name: "Deelactie",
           amount: 11,
           color: '#4267b2'
           },
           {
           name: "Like",
-          amount: 21,
+          amount: 22,
           color: '#1f2544'
           },
+        //   {
+        //   name: NuGoogleTwitter.search_parameters.q,
+        //   amount: NuGoogleTwitter.search_information.total_results,
+        //   color: '#008bc3'
+        //   },
       ]
     }
   },
@@ -73,39 +79,25 @@ export default {
 </script>
 
 <style scoped>
-body {
-  font: 16px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
-    Arial, sans-serif;
-}
 
- p {
-    margin-bottom: -36px !important;
-    font-weight: 700;
-    padding-top: 20px;
-}
 
 svg {
   display: block;
   margin: 0 auto;
 }
 
-#nos-wrapper {
-  animation: createBox 1s infinite;
-  animation-direction:alternate
+ p {
+    margin-bottom: -36px !important;
+    font-weight: 700;
+    padding-top: 20px;
+    font-size: 10px;
 }
-@keyframes createBox {
-  0% {
-    transform: scale(1.0);
-  }
-  100% {
-    transform: scale(1.05);
-  }
-}
+
 
 .flower {
   transition: transform 0.2s ease-in-out;
   text-anchor: middle;
-  font-size: 10px;
+  font-size: 4px !important;
 }
 
 .flower__circle {
@@ -146,27 +138,27 @@ svg {
     font-size: 10px !important;
 }
 
-.v-application a {
-    color: #fff;
+#nos-wrapper {
+  animation: createBox 1s infinite;
+  animation-direction:alternate
 }
-
-span {
-    font-weight: 400;
-    font-size: 12px;
-    margin-top: 15px;
+@keyframes createBox {
+  0% {
+    transform: scale(1.0);
+  }
+  100% {
+    transform: scale(1.05);
+  }
 }
 
 p {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-top: 36%; */
+    
     color: #fff;
     font-size: 18px;
     text-align: center;
 }
-
-text.flower__label {
-    font-size: 4px;
-}
 </style>
+
