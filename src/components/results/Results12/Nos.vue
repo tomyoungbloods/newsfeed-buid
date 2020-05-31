@@ -1,7 +1,7 @@
 <template>
   <div id="nos-wrapper">
       <router-link to="/results-13">
-      <!-- <p>NOS</p> -->
+      <p>NOS</p>
     <svg width="auto" height="auto" viewBox="0 0 100 100">
       <g
         class="flower"
