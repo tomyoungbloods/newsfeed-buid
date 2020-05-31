@@ -2,11 +2,11 @@
   <div>
     <h1 class="center">Wat maakt de NOS Groot?</h1>
     <p class="center"><span>Gemiddelde like/deel actie</span></p>
-    <nos></nos>
+    <Nos></Nos>
     <Nu></Nu>
     
 
-  </div>
+  </div> 
 </template>
 <script>
 import Nos from "./Results12/Nos"
