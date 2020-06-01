@@ -2,8 +2,8 @@
 <div id="results-2">
     <div class="row">
         <h3>Wat is de waarde van deze interacties?</h3>
-        <h1 class="zij">De mensen die de NOS delen hebben gemiddeld gezien een vele malen groter bereik dan die van Nu.nl<br><br>Maar mag ik jou dan nog één vraag stellen?</h1>
-            <v-btn to="/results-16">Ja, Kom maar op!</v-btn>
+        <h1 class="zij">De mensen die de NOS delen hebben gemiddeld gezien een vele malen groter bereik dan die van NU.nl<br></h1>
+            <v-btn to="/results-16">Ja, ga door!</v-btn>
     </div>        
 </div>
    

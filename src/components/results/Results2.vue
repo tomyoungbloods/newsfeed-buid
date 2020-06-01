@@ -1,7 +1,7 @@
 <template>
 <div id="results-2">
     <div class="row">
-        <h1 class="zij">Er is een enquete afgenomen om te kijken welke bronnen volgens ons betrouwbaar nieuws brengen?</h1>
+        <h1 class="zij">Uit de peiling blijkt dat de ene nieuwsbron betrouwbaarder wordt geacht dan de ander, benieuwd naar het resultaat?</h1>
             <v-btn to="/results-3">Laat mij dat zien</v-btn>
     </div>        
 </div>

@@ -3,6 +3,7 @@
     <div class="row">
         <div>
                     <h1 class="zij">Zij of wij?</h1>
+                    <h3>De NOS biedt, als één van de grootste nieuwsorganisaties van Nederland, altijd en overal onafhankelijke en betrouwbare verslaggeving op het gebied van nieuws, sport en evenementen. </h3>
         </div>
         <div>
                     <v-btn to="/results-2">Vertel meer!</v-btn>
@@ -52,5 +53,11 @@ export default {
         justify-content: center;
         flex-direction: column;
         align-items: center;
+    }
+    h3{
+        font-size: 14px;
+        font-weight: 500;
+        color: #fff;
+        text-align: center;
     }
 </style>

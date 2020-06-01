@@ -2,7 +2,7 @@
 <div id="results-2">
     <div class="row">
         <h3>Zij of wij?</h3>
-        <h2 class="zij center">Nu je gezien hebt hoe de verschillende bronnen groot gemaakt worden.<br><br>En je van te voren gezien hebt dat de media 'Fake' genoemd wordt en op de hand van de regering zou zijn. Mag ik jou dan deze vraag stellen?</h2>
+        <h1 class="zij">Nu we weten dat het niemand minder is dan wij zelf en ons eigen gedrag op social media die nieuwsbronnen als NOS zo ongelofelijk groot hebben gemaakt.<br><br> Nu we weten dat niet de regering maar jij en ik een podium creeeren voor deze bron... Mag ik jou dan nog een vraag stellen?</h1>
         <v-btn to="/results-17">Yes</v-btn>
     </div>        
 </div>

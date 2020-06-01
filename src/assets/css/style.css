@@ -198,3 +198,6 @@ html.is-animating .transition-fade {
 .v-btn:not(.v-btn--text):not(.v-btn--outlined):hover:before {
     opacity: 0;
 }
+.container {
+    margin-bottom: 80px;
+}

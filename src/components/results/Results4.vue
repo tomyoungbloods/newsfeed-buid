@@ -1,7 +1,7 @@
 <template>
 <div id="results-4">
     <div class="row">
-        <h1 class="zij">Maar is de media nog wel objectief?</h1>
+        <h1 class="zij">Maar, kunnen we tegenwoordig wel zeggen dat nieuws objectief is?</h1>
         <div class="trump">
             <iframe width="240" height="100%" src="https://www.youtube.com/embed/Vqpzk-qGxMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
@@ -11,7 +11,7 @@
             </video>
         </div>
         <div>
-            <p class="caption center">Als Trump de media al 'fake' noemt en een bureau als CBP als niet betrouwbaar gezien wordt. Kunnen we dan nog wel spreken van objectiviteit in de media?</p>
+            <p class="caption center">Niet alleen jij en ik als individu houdt zich bezig met deze vraag. Trump lijkt er van overtuigd dat de media onbetrouwbaar is en spreekt zich regelmatig uit over fake news. In Nederland horen we ook steeds vaker dat geluid. In het fragment hier boven spreekt een burger zich ook uit over bureaus als de CBP</p>
             <div class="center">
                  <v-btn to="/results-5">Laat mij dat zien</v-btn>
             </div>
@@ -39,7 +39,7 @@ export default {
 </script>
 <style scoped>
     h1{
-        font-size: 20px;
+        font-size: 16px;
         text-align: center;
         font-weight: 700;
         color: #fff;
@@ -57,6 +57,7 @@ export default {
         display: flex;
         background-size: cover;
         color: #fff;
+        padding-top: 40px;
     }
 
     .row{
@@ -70,6 +71,7 @@ export default {
     display: flex;
     justify-content: flex-end;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .trump {

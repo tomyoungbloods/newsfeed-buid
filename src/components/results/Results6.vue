@@ -1,7 +1,7 @@
 <template>
 <div id="results-2">
     <div class="row">
-        <h1 class="zij">Maar hoe komt het dan toch dat we ons nieuws halen van de bekende bronnen?</h1>
+        <h1 class="zij">Hoe komt het dan toch dat we ons nieuws halen van de bekende bronnen, die we eerder onbetrouwbaar achtten?</h1>
             <v-btn to="/results-7">Laat mij dat zien</v-btn>
     </div>        
 </div>
@@ -25,7 +25,7 @@ export default {
 </script>
 <style scoped>
     h1{
-        font-size: 30px;
+        font-size: 20px;
         text-align: center;
         font-weight: 700;
         color: #fff;

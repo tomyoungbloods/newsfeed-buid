@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p class="center">Om te kijken waar wij ons nieuws vandaan halen is er eerst gekeken naar welke bron de grootste voetstap online heeft. </p>
+    <p class="center">Wanneer je kijkt naar welke bron online de grootste voetstap heeft is dit het resultaat: </p>
     <svg width="300" height="400">
       <g
         class="flower"

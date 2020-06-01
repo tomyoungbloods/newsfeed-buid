@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="center">Hoe komt dat?</h1>
+    <h1 class="center">Waaraan heeft NOS zijn populariteit te danken?</h1>
     <nos></nos>
     <Nu></Nu>
     <rtl></rtl>
