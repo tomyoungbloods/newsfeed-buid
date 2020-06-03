@@ -24,7 +24,7 @@ export default {
     menuItems: [
       {icon: 'mdi-home', title: 'Nieuws', link: '/'},
       {icon: 'mdi-newspaper-variant-multiple', title: 'Resultaten', link: '/results-1'},
-      {icon: 'mdi-chart-scatter-plot', title: 'Mijn account', link: '/login'},
+      {icon: 'mdi-chart-scatter-plot', title: 'Visualisatie', link: '/data-start'},
     ],
         
     }),

@@ -35,6 +35,8 @@ import Results14 from '@/components/results/Results14'
 import Results15 from '@/components/results/Results15'
 import Results16 from '@/components/results/Results16'
 import Results17 from '@/components/results/Results17'
+import DataVisualisatie from '@/components/data-visualisatie/DataVisualisatie'
+import DataStart from '@/components/data-visualisatie/DataStart'
 import Login from '@/components/Login'
 import Register from '@/components/Register'
 import firebase, { functions } from 'firebase'
@@ -239,6 +241,16 @@ let router = new Router({
       path: '/results-17',
       name: 'results-17',
       component: Results17, 
+    },
+    {
+      path: '/data',
+      name: 'DataVisualisatie',
+      component: DataVisualisatie, 
+    },
+    {
+      path: '/data-start',
+      name: 'DataStart',
+      component: DataStart, 
     },
     {
       path: '/login',
