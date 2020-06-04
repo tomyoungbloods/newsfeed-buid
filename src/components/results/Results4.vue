@@ -65,7 +65,7 @@ export default {
 
     .jort {
     width: 100%;
-    margin-top: 50px;
+    margin-top: 20px;
     display: flex;
     justify-content: flex-end;
     margin-right: 20px;
