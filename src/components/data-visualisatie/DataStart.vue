@@ -8,7 +8,7 @@
 
         <v-row class="justify-center align-center ma-2">
             <v-col cols="12">
-                <img class="contain" src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/news%2Foverzicht.png?alt=media&token=cf883f22-0445-48b4-b21e-b1f01a5d679f">
+                <img class="contain" src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/news%2Foverzicht1.png?alt=media&token=9d45ed36-59ed-4f62-a6a5-fd3e2ef71f12">
                 
             </v-col>
          </v-row>
@@ -26,6 +26,7 @@
         width: 100%;
         height: calc(100vh - 80px);
         margin-top: 0;
+        padding-top: 80px;
     }
      h1{
         font-size: 30px;
