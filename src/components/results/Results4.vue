@@ -6,12 +6,10 @@
             <iframe width="240" height="100%" src="https://www.youtube.com/embed/Vqpzk-qGxMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="jort">
-            <video width="240" height="100%" controls>
-                <source src="https://firebasestorage.googleapis.com/v0/b/nieuwslandschap.appspot.com/o/video%2FScreen%20Recording%202020-05-30%20at%2015.20.48.mp4?alt=media&token=2f4d4e3f-f0ab-4903-9f3d-0bf4382d41f0#t=0.1" type="video/mp4">
-            </video>
+            <iframe width="240" height="100%" src="https://www.youtube.com/embed/vbF07DW92so?start=159" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div>
-            <p class="caption center">Niet alleen jij en ik als individu houdt zich bezig met deze vraag. Trump lijkt er van overtuigd dat de media onbetrouwbaar is en spreekt zich regelmatig uit over fake news. In Nederland horen we ook steeds vaker dat geluid. In het fragment hier boven spreekt een burger zich ook uit over bureaus als de CBP</p>
+            <p class="caption center">Niet alleen jij en ik als individu houdt zich bezig met deze vraag. Trump lijkt er van overtuigd dat de media onbetrouwbaar is en spreekt zich regelmatig uit over fake news. In Nederland horen we ook steeds vaker dat geluid. In het fragment hier boven spreekt Arnold Karskens zich ook uit over de objectiviteit van de NOS</p>
             <div class="center">
                  <v-btn to="/results-5">Laat mij dat zien</v-btn>
             </div>

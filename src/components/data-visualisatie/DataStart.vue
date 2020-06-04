@@ -46,6 +46,7 @@
         display: flex;
     }
 
+
     .row{
         display: flex;
         justify-content: center;
