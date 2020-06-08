@@ -112,6 +112,8 @@ export default {
             group: null,
 
             items: [
+                { icon: 'mdi-selection-search' ,title: 'Methode 1 Resultaten', link: '/methode-1', key: 'methode1' },
+                { icon: 'mdi-selection-search' ,title: 'Methode 2 Resultaten', link: '/methode-2', key: 'methode2' },
                 { icon: 'mdi-selection-search' ,title: 'Methode 3 Resultaten', link: '/methode-3', key: 'methode3' },
                 { icon: 'mdi-selection-search' ,title: 'Methode 4 Resultaten', link: '/methode-4-results', key: 'methode4' },
                 { icon: 'mdi-selection-search' ,title: 'Methode 5 Resultaten', link: '/methode-5', key: 'methode5' },
